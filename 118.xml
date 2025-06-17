@@ -1,0 +1,4312 @@
+<committees>
+	<committee type="house" code="HSAG" displayname="House Committee on Agriculture">
+		<member id="412317" role="Chair"/>
+		<member id="400363" role="Ranking Member"/>
+		<member id="400247"/>
+		<member id="400618"/>
+		<member id="412417" role="Vice Chairman"/>
+		<member id="400263"/>
+		<member id="412400"/>
+		<member id="412607"/>
+		<member id="412477"/>
+		<member id="412833"/>
+		<member id="412510"/>
+		<member id="412763"/>
+		<member id="412641"/>
+		<member id="456863"/>
+		<member id="412673"/>
+		<member id="412780"/>
+		<member id="412713"/>
+		<member id="412784"/>
+		<member id="412629"/>
+		<member id="456887"/>
+		<member id="412816"/>
+		<member id="456934"/>
+		<member id="412777"/>
+		<member id="456949"/>
+		<member id="456823"/>
+		<member id="456912"/>
+		<member id="456818"/>
+		<member id="456897"/>
+		<member id="456820"/>
+		<member id="456901"/>
+		<member id="456800"/>
+		<member id="456902"/>
+		<member id="456806"/>
+		<member id="456919"/>
+		<member id="456869"/>
+		<member id="456944"/>
+		<member id="412818"/>
+		<member id="456899"/>
+		<member id="456847"/>
+		<member id="456945"/>
+		<member id="456925"/>
+		<member id="412307"/>
+		<member id="456943"/>
+		<member id="412686"/>
+		<member id="456927"/>
+		<member id="412789"/>
+		<member id="456882"/>
+		<member id="412695"/>
+		<member id="456898"/>
+		<member id="400030"/>
+		<member id="456909"/>
+		<member id="456950"/>
+		<member id="456933"/>
+		<member id="456929"/>
+		<subcommittee code="15" displayname="Forestry Subcommittee">
+			<member id="412510" role="Chairman"/>
+			<member id="456934" role="Ranking Member"/>
+			<member id="412673"/>
+			<member id="456949"/>
+			<member id="456800"/>
+			<member id="456919"/>
+			<member id="456882"/>
+			<member id="412307"/>
+			<member id="456933"/>
+		</subcommittee>
+		<subcommittee code="22" displayname="Commodity Markets, Digital Assets, and Rural Development Subcommittee">
+			<member id="412816" role="Chairman"/>
+			<member id="456887" role="Ranking Member"/>
+			<member id="400247"/>
+			<member id="456912"/>
+			<member id="412417"/>
+			<member id="400618"/>
+			<member id="412641"/>
+			<member id="456934"/>
+			<member id="412713"/>
+			<member id="456949"/>
+			<member id="456823"/>
+			<member id="456901"/>
+			<member id="412818"/>
+			<member id="456899"/>
+			<member id="456925"/>
+			<member id="456945"/>
+			<member id="456927"/>
+			<member id="412789"/>
+			<member id="456898"/>
+			<member id="456944"/>
+			<member id="456933"/>
+			<member id="456929"/>
+		</subcommittee>
+		<subcommittee code="16" displayname="General Farm Commodities, Risk Management, and Credit Subcommittee">
+			<member id="412417" role="Chairman"/>
+			<member id="456863" role="Ranking Member"/>
+			<member id="412400"/>
+			<member id="412780"/>
+			<member id="412510"/>
+			<member id="456912"/>
+			<member id="412641"/>
+			<member id="456902"/>
+			<member id="412816"/>
+			<member id="456944"/>
+			<member id="456820"/>
+			<member id="456901"/>
+			<member id="456800"/>
+			<member id="412686"/>
+			<member id="456869"/>
+			<member id="412789"/>
+			<member id="412818"/>
+			<member id="412607"/>
+			<member id="456847"/>
+			<member id="400030"/>
+			<member id="456943"/>
+			<member id="456882"/>
+			<member id="456898"/>
+			<member id="456909"/>
+		</subcommittee>
+		<subcommittee code="29" displayname="Livestock, Dairy, and Poultry Subcommittee">
+			<member id="456823" role="Chairman"/>
+			<member id="400618" role="Ranking Member"/>
+			<member id="412477"/>
+			<member id="412833"/>
+			<member id="412673"/>
+			<member id="412763"/>
+			<member id="412713"/>
+			<member id="456887"/>
+			<member id="412777"/>
+			<member id="456897"/>
+			<member id="456818"/>
+			<member id="412307"/>
+			<member id="456800"/>
+			<member id="412695"/>
+			<member id="456847"/>
+			<member id="456912"/>
+			<member id="456925"/>
+			<member id="456909"/>
+			<member id="456950"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Conservation, Research, and Biotechnology Subcommittee">
+			<member id="412777" role="Chairman"/>
+			<member id="412833" role="Ranking Member"/>
+			<member id="400247"/>
+			<member id="412780"/>
+			<member id="412629"/>
+			<member id="412784"/>
+			<member id="456820"/>
+			<member id="456901"/>
+			<member id="456806"/>
+			<member id="456902"/>
+			<member id="456869"/>
+			<member id="456897"/>
+			<member id="456882"/>
+			<member id="456919"/>
+			<member id="456909"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Nutrition, Foreign Agriculture, and Horticulture Subcommittee">
+			<member id="456869" role="Chairman"/>
+			<member id="412763" role="Ranking Member"/>
+			<member id="412417"/>
+			<member id="400263"/>
+			<member id="412477"/>
+			<member id="412607"/>
+			<member id="412777"/>
+			<member id="456897"/>
+			<member id="456823"/>
+			<member id="456944"/>
+			<member id="412818"/>
+			<member id="456899"/>
+			<member id="456925"/>
+			<member id="456945"/>
+			<member id="456943"/>
+			<member id="456863"/>
+			<member id="456927"/>
+			<member id="456934"/>
+			<member id="456950"/>
+			<member id="456887"/>
+			<member id="456929"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSAP" displayname="House Committee on Appropriations">
+		<member id="400077" role="Chair"/>
+		<member id="400103" role="Ranking Member"/>
+		<member id="400340"/>
+		<member id="400189"/>
+		<member id="400157"/>
+		<member id="400211"/>
+		<member id="400004"/>
+		<member id="400030"/>
+		<member id="400376"/>
+		<member id="400237"/>
+		<member id="400068"/>
+		<member id="400259"/>
+		<member id="400057"/>
+		<member id="400349"/>
+		<member id="400108"/>
+		<member id="400623"/>
+		<member id="412402"/>
+		<member id="400657"/>
+		<member id="412476"/>
+		<member id="412307"/>
+		<member id="412566"/>
+		<member id="412331"/>
+		<member id="412434"/>
+		<member id="412583"/>
+		<member id="412500"/>
+		<member id="412571"/>
+		<member id="412515"/>
+		<member id="412560"/>
+		<member id="412660"/>
+		<member id="412585"/>
+		<member id="412634"/>
+		<member id="412615"/>
+		<member id="412692"/>
+		<member id="412529"/>
+		<member id="412832"/>
+		<member id="412644"/>
+		<member id="412813"/>
+		<member id="412617"/>
+		<member id="456792"/>
+		<member id="400069"/>
+		<member id="456816"/>
+		<member id="412718"/>
+		<member id="456849"/>
+		<member id="412754"/>
+		<member id="456859"/>
+		<member id="412834"/>
+		<member id="412746"/>
+		<member id="412783"/>
+		<member id="412793"/>
+		<member id="412776"/>
+		<member id="412640"/>
+		<member id="412802"/>
+		<member id="456813"/>
+		<member id="412749"/>
+		<member id="456824"/>
+		<member id="456799"/>
+		<member id="456841"/>
+		<member id="456807"/>
+		<member id="456862"/>
+		<member id="456880"/>
+		<member id="456914"/>
+		<subcommittee code="01" displayname="Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Subcommittee">
+			<member id="412434" role="Chair"/>
+			<member id="400030" role="Ranking Member"/>
+			<member id="412515"/>
+			<member id="412307"/>
+			<member id="412634"/>
+			<member id="412776"/>
+			<member id="412660"/>
+			<member id="400211"/>
+			<member id="456859"/>
+			<member id="400237"/>
+			<member id="412832"/>
+			<member id="400623"/>
+			<member id="456816"/>
+			<member id="456799"/>
+			<member id="456807"/>
+		</subcommittee>
+		<subcommittee code="19" displayname="Commerce, Justice, Science, and Related Agencies Subcommittee">
+			<member id="400340" role="Chair"/>
+			<member id="412571" role="Ranking Member"/>
+			<member id="400004"/>
+			<member id="412560"/>
+			<member id="400068"/>
+			<member id="400349"/>
+			<member id="412832"/>
+			<member id="412783"/>
+			<member id="456792"/>
+			<member id="412749"/>
+			<member id="456849"/>
+			<member id="456813"/>
+			<member id="456862"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Defense Subcommittee">
+			<member id="400057" role="Chair"/>
+			<member id="400259" role="Ranking Member"/>
+			<member id="400340"/>
+			<member id="400349"/>
+			<member id="412402"/>
+			<member id="400211"/>
+			<member id="400004"/>
+			<member id="400657"/>
+			<member id="400068"/>
+			<member id="412583"/>
+			<member id="400108"/>
+			<member id="412615"/>
+			<member id="412566"/>
+			<member id="400069"/>
+			<member id="456792"/>
+			<member id="456862"/>
+			<member id="412476"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="Energy and Water Development, and Related Agencies Subcommittee">
+			<member id="412476" role="Chair"/>
+			<member id="400211" role="Ranking Member"/>
+			<member id="400376"/>
+			<member id="400623"/>
+			<member id="400057"/>
+			<member id="412802"/>
+			<member id="412660"/>
+			<member id="412331"/>
+			<member id="412813"/>
+			<member id="412749"/>
+			<member id="456792"/>
+			<member id="412583"/>
+			<member id="456859"/>
+			<member id="412793"/>
+			<member id="456841"/>
+		</subcommittee>
+		<subcommittee code="23" displayname="Financial Services and General Government Subcommittee">
+			<member id="412566" role="Chair"/>
+			<member id="400189" role="Ranking Member"/>
+			<member id="412402"/>
+			<member id="412571"/>
+			<member id="412500"/>
+			<member id="412585"/>
+			<member id="412634"/>
+			<member id="400030"/>
+			<member id="456816"/>
+			<member id="412617"/>
+			<member id="412746"/>
+			<member id="456799"/>
+			<member id="456914"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Homeland Security Subcommittee">
+			<member id="412500" role="Chair"/>
+			<member id="400657" role="Ranking Member"/>
+			<member id="412692"/>
+			<member id="412776"/>
+			<member id="412434"/>
+			<member id="400069"/>
+			<member id="412660"/>
+			<member id="412783"/>
+			<member id="456816"/>
+			<member id="412746"/>
+			<member id="412793"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="Interior, Environment, and Related Agencies Subcommittee">
+			<member id="400376" role="Chairman"/>
+			<member id="412307" role="Ranking Member"/>
+			<member id="412500"/>
+			<member id="400259"/>
+			<member id="412813"/>
+			<member id="412583"/>
+			<member id="412746"/>
+			<member id="412754"/>
+			<member id="412640"/>
+			<member id="456862"/>
+			<member id="456914"/>
+		</subcommittee>
+		<subcommittee code="07" displayname="Labor, Health and Human Services, Education, and Related Agencies Subcommittee">
+			<member id="400004" role="Chair"/>
+			<member id="400103" role="Ranking Member"/>
+			<member id="400376"/>
+			<member id="400189"/>
+			<member id="412434"/>
+			<member id="400237"/>
+			<member id="412476"/>
+			<member id="412585"/>
+			<member id="412634"/>
+			<member id="412529"/>
+			<member id="456859"/>
+			<member id="412644"/>
+			<member id="456813"/>
+			<member id="412754"/>
+			<member id="456824"/>
+			<member id="456880"/>
+			<member id="456914"/>
+		</subcommittee>
+		<subcommittee code="24" displayname="Legislative Branch Subcommittee">
+			<member id="412515" role="Chair"/>
+			<member id="412718" role="Ranking Member"/>
+			<member id="456813"/>
+			<member id="412834"/>
+			<member id="456824"/>
+			<member id="412331"/>
+			<member id="456841"/>
+			<member id="456807"/>
+		</subcommittee>
+		<subcommittee code="18" displayname="Military Construction, Veterans Affairs, and Related Agencies Subcommittee">
+			<member id="400068" role="Chair"/>
+			<member id="400623" role="Ranking Member"/>
+			<member id="412515"/>
+			<member id="400030"/>
+			<member id="412692"/>
+			<member id="412802"/>
+			<member id="456849"/>
+			<member id="400657"/>
+			<member id="412793"/>
+			<member id="412307"/>
+			<member id="412640"/>
+			<member id="456841"/>
+			<member id="456807"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="State, Foreign Operations, and Related Programs Subcommittee">
+			<member id="400108" role="Chair"/>
+			<member id="400237" role="Ranking Member"/>
+			<member id="400340"/>
+			<member id="412560"/>
+			<member id="412813"/>
+			<member id="412529"/>
+			<member id="456824"/>
+			<member id="412617"/>
+			<member id="456799"/>
+			<member id="456880"/>
+			<member id="456914"/>
+		</subcommittee>
+		<subcommittee code="20" displayname="Transportation, Housing and Urban Development, and Related Agencies Subcommittee">
+			<member id="412402" role="Chair"/>
+			<member id="412331" role="Ranking Member"/>
+			<member id="400108"/>
+			<member id="412644"/>
+			<member id="412692"/>
+			<member id="412617"/>
+			<member id="456849"/>
+			<member id="412615"/>
+			<member id="412515"/>
+			<member id="412718"/>
+			<member id="412832"/>
+			<member id="412834"/>
+			<member id="412640"/>
+			<member id="456880"/>
+			<member id="412566"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSAS" displayname="House Committee on Armed Services">
+		<member id="400341" role="Chair"/>
+		<member id="400379" role="Ranking Member"/>
+		<member id="400433"/>
+		<member id="412193"/>
+		<member id="400411"/>
+		<member id="412382"/>
+		<member id="412191"/>
+		<member id="412606"/>
+		<member id="412255"/>
+		<member id="412612"/>
+		<member id="412417"/>
+		<member id="412632"/>
+		<member id="400158"/>
+		<member id="412686"/>
+		<member id="412648"/>
+		<member id="412684"/>
+		<member id="412477"/>
+		<member id="412435"/>
+		<member id="412673"/>
+		<member id="412810"/>
+		<member id="412713"/>
+		<member id="412784"/>
+		<member id="412702"/>
+		<member id="412799"/>
+		<member id="412709"/>
+		<member id="412825"/>
+		<member id="412764"/>
+		<member id="412842"/>
+		<member id="456827"/>
+		<member id="456804"/>
+		<member id="456847"/>
+		<member id="456854"/>
+		<member id="456845"/>
+		<member id="456871"/>
+		<member id="456809"/>
+		<member id="456916"/>
+		<member id="456843"/>
+		<member id="456919"/>
+		<member id="456869"/>
+		<member id="456936"/>
+		<member id="456878"/>
+		<member id="456897"/>
+		<member id="456942"/>
+		<member id="456912"/>
+		<member id="456947"/>
+		<member id="456953"/>
+		<member id="456920"/>
+		<member id="412396"/>
+		<member id="456896"/>
+		<member id="412559"/>
+		<member id="456909"/>
+		<member id="412685"/>
+		<member id="456889"/>
+		<member id="412579"/>
+		<member id="456894"/>
+		<member id="412822"/>
+		<member id="412705"/>
+		<subcommittee code="25" displayname="Tactical Air and Land Forces Subcommittee">
+			<member id="412255" role="Chairman"/>
+			<member id="412606" role="Ranking Member"/>
+			<member id="400411"/>
+			<member id="412193"/>
+			<member id="412191"/>
+			<member id="412612"/>
+			<member id="400158"/>
+			<member id="412686"/>
+			<member id="412713"/>
+			<member id="412799"/>
+			<member id="456827"/>
+			<member id="456871"/>
+			<member id="456845"/>
+			<member id="456916"/>
+			<member id="456809"/>
+			<member id="412559"/>
+			<member id="456894"/>
+			<member id="412822"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Military Personnel Subcommittee">
+			<member id="412702" role="Chairman"/>
+			<member id="412648"/>
+			<member id="412810"/>
+			<member id="412709"/>
+			<member id="412825"/>
+			<member id="412764"/>
+			<member id="456854"/>
+			<member id="456869"/>
+			<member id="456897"/>
+			<member id="456896"/>
+			<member id="456912"/>
+			<member id="456909"/>
+			<member id="412396"/>
+			<member id="456889"/>
+			<member id="412559"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Readiness Subcommittee">
+			<member id="412764" role="Chairman"/>
+			<member id="412382" role="Ranking Member"/>
+			<member id="400433"/>
+			<member id="412799"/>
+			<member id="412417"/>
+			<member id="412825"/>
+			<member id="456809"/>
+			<member id="456854"/>
+			<member id="456869"/>
+			<member id="456919"/>
+			<member id="456878"/>
+			<member id="456897"/>
+			<member id="456947"/>
+			<member id="456912"/>
+			<member id="456896"/>
+			<member id="412579"/>
+			<member id="412822"/>
+		</subcommittee>
+		<subcommittee code="28" displayname="Seapower and Projection Forces Subcommittee">
+			<member id="412673" role="Chairman"/>
+			<member id="412193" role="Ranking Member"/>
+			<member id="412255"/>
+			<member id="412382"/>
+			<member id="412477"/>
+			<member id="412606"/>
+			<member id="412709"/>
+			<member id="412842"/>
+			<member id="456847"/>
+			<member id="456804"/>
+			<member id="456843"/>
+			<member id="456936"/>
+			<member id="456947"/>
+			<member id="456953"/>
+			<member id="456909"/>
+			<member id="412685"/>
+			<member id="456920"/>
+			<member id="412705"/>
+		</subcommittee>
+		<subcommittee code="29" displayname="Strategic Forces Subcommittee">
+			<member id="412191" role="Chairman"/>
+			<member id="412632" role="Ranking Member"/>
+			<member id="400433"/>
+			<member id="412382"/>
+			<member id="400411"/>
+			<member id="412606"/>
+			<member id="412648"/>
+			<member id="412686"/>
+			<member id="412477"/>
+			<member id="412684"/>
+			<member id="412713"/>
+			<member id="412810"/>
+			<member id="412702"/>
+			<member id="456919"/>
+			<member id="412764"/>
+			<member id="412579"/>
+			<member id="456878"/>
+		</subcommittee>
+		<subcommittee code="26" displayname="Intelligence and Special Operations Subcommittee">
+			<member id="412709" role="Chairman"/>
+			<member id="412612" role="Ranking Member"/>
+			<member id="412417"/>
+			<member id="412435"/>
+			<member id="412648"/>
+			<member id="412784"/>
+			<member id="412673"/>
+			<member id="456804"/>
+			<member id="456847"/>
+			<member id="456916"/>
+			<member id="456843"/>
+			<member id="456953"/>
+			<member id="456942"/>
+			<member id="412685"/>
+			<member id="456889"/>
+		</subcommittee>
+		<subcommittee code="35" displayname="Cyber, Information Technologies, and Innovation Subcommittee">
+			<member id="412713" role="Chairman"/>
+			<member id="412684" role="Ranking Member"/>
+			<member id="456827"/>
+			<member id="412632"/>
+			<member id="456845"/>
+			<member id="412435"/>
+			<member id="456878"/>
+			<member id="412784"/>
+			<member id="456942"/>
+			<member id="412842"/>
+			<member id="456947"/>
+			<member id="456871"/>
+			<member id="456920"/>
+			<member id="456936"/>
+			<member id="456894"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSBA" displayname="House Committee on Financial Services">
+		<member id="400644" role="Chair"/>
+		<member id="400422" role="Ranking Member"/>
+		<member id="400247"/>
+		<member id="400416"/>
+		<member id="400367"/>
+		<member id="400371"/>
+		<member id="412309"/>
+		<member id="400271"/>
+		<member id="412292"/>
+		<member id="400363"/>
+		<member id="412437"/>
+		<member id="400249"/>
+		<member id="412548"/>
+		<member id="400653"/>
+		<member id="412541"/>
+		<member id="400639"/>
+		<member id="412578"/>
+		<member id="412282"/>
+		<member id="412609"/>
+		<member id="412257"/>
+		<member id="412639"/>
+		<member id="412565"/>
+		<member id="412624"/>
+		<member id="412522"/>
+		<member id="412662"/>
+		<member id="412714"/>
+		<member id="412675"/>
+		<member id="412725"/>
+		<member id="412818"/>
+		<member id="412775"/>
+		<member id="412836"/>
+		<member id="412782"/>
+		<member id="412815"/>
+		<member id="412787"/>
+		<member id="412738"/>
+		<member id="456838"/>
+		<member id="412811"/>
+		<member id="412827"/>
+		<member id="456802"/>
+		<member id="456811"/>
+		<member id="456808"/>
+		<member id="456915"/>
+		<member id="456836"/>
+		<member id="456886"/>
+		<member id="456855"/>
+		<member id="456868"/>
+		<member id="456924"/>
+		<member id="456943"/>
+		<member id="456939"/>
+		<member id="456903"/>
+		<member id="456898"/>
+		<subcommittee code="16" displayname="Capital Markets Subcommittee">
+			<member id="412548" role="Chairman"/>
+			<member id="400371" role="Ranking Member"/>
+			<member id="400247"/>
+			<member id="400271"/>
+			<member id="400367"/>
+			<member id="400363"/>
+			<member id="412437"/>
+			<member id="412522"/>
+			<member id="412609"/>
+			<member id="412714"/>
+			<member id="412639"/>
+			<member id="412725"/>
+			<member id="412662"/>
+			<member id="412775"/>
+			<member id="412836"/>
+			<member id="456915"/>
+			<member id="412811"/>
+			<member id="400249"/>
+			<member id="456836" role="Vice Chairman"/>
+			<member id="400639"/>
+			<member id="456924"/>
+			<member id="456898"/>
+			<member id="456903"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Housing and Insurance Subcommittee">
+			<member id="412675" role="Chairman"/>
+			<member id="400639" role="Ranking Member"/>
+			<member id="412309"/>
+			<member id="400416"/>
+			<member id="412292"/>
+			<member id="412787"/>
+			<member id="412738"/>
+			<member id="456838"/>
+			<member id="456855"/>
+			<member id="412782"/>
+			<member id="456836"/>
+			<member id="412827"/>
+			<member id="456868"/>
+			<member id="456811"/>
+			<member id="456924"/>
+			<member id="456943" role="Vice Chairman"/>
+			<member id="456886"/>
+			<member id="456903"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Oversight and Investigations Subcommittee">
+			<member id="412437" role="Chairman"/>
+			<member id="400653" role="Ranking Member"/>
+			<member id="400367"/>
+			<member id="412548"/>
+			<member id="412787"/>
+			<member id="412662"/>
+			<member id="412827"/>
+			<member id="412818" role="Vice Chairman"/>
+			<member id="456811"/>
+			<member id="412811"/>
+			<member id="456939"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="National Security, Illicit Finance, and International Financial Institutions Subcommittee">
+			</subcommittee>
+		<subcommittee code="20" displayname="Financial Institutions and Monetary Policy Subcommittee">
+			<member id="412541" role="Chairman"/>
+			<member id="412257" role="Ranking Member"/>
+			<member id="412309"/>
+			<member id="400416"/>
+			<member id="412292"/>
+			<member id="400371"/>
+			<member id="412578"/>
+			<member id="400271"/>
+			<member id="412624" role="Vice Chairman"/>
+			<member id="400363"/>
+			<member id="412818"/>
+			<member id="400653"/>
+			<member id="412815"/>
+			<member id="412565"/>
+			<member id="412738"/>
+			<member id="412522"/>
+			<member id="456855"/>
+			<member id="412775"/>
+			<member id="456802"/>
+			<member id="412782"/>
+			<member id="456808"/>
+			<member id="456943"/>
+			<member id="456939"/>
+		</subcommittee>
+		<subcommittee code="21" displayname="Digital Assets, Financial Technology and Inclusion Subcommittee">
+			<member id="412609" role="Chairman"/>
+			<member id="400249" role="Ranking Member"/>
+			<member id="400247"/>
+			<member id="412257"/>
+			<member id="412639"/>
+			<member id="412714"/>
+			<member id="412675" role="Vice Chairman"/>
+			<member id="456838"/>
+			<member id="412818"/>
+			<member id="400371"/>
+			<member id="412836"/>
+			<member id="400653"/>
+			<member id="412815"/>
+			<member id="412775"/>
+			<member id="456808"/>
+			<member id="456915"/>
+			<member id="456868"/>
+			<member id="456903"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="National Security, Illicit Finance, and International Financial Institutions Subcommittee">
+			<member id="412292" role="Chairman"/>
+			<member id="412565" role="Ranking Member"/>
+			<member id="412541"/>
+			<member id="412725"/>
+			<member id="412578"/>
+			<member id="456915"/>
+			<member id="412624"/>
+			<member id="456886"/>
+			<member id="412811"/>
+			<member id="412257"/>
+			<member id="456802" role="Vice Chairman"/>
+			<member id="412522"/>
+			<member id="456898"/>
+			<member id="412714"/>
+			<member id="456943"/>
+			<member id="456939"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSBU" displayname="House Committee on the Budget"><member id="412726" role="Chair"/>
+		<member id="412652" role="Ranking Member"/>
+		<member id="412738"/>
+		<member id="400360"/>
+		<member id="412295"/>
+		<member id="400033"/>
+		<member id="412661"/>
+		<member id="412546"/>
+		<member id="412722"/>
+		<member id="412523"/>
+		<member id="400052"/>
+		<member id="400237"/>
+		<member id="412622"/>
+		<member id="400111"/>
+		<member id="412832"/>
+		<member id="412685"/>
+		<member id="456853"/>
+		<member id="412834"/>
+		<member id="412709"/>
+		<member id="412791"/>
+		<member id="412700"/>
+		<member id="412783"/>
+		<member id="412826"/>
+		<member id="456948"/>
+		<member id="456851"/>
+		<member id="400364"/>
+		<member id="412515"/>
+		<member id="412718"/>
+		<member id="412735"/>
+		<member id="412717"/>
+		<member id="456827"/>
+		<member id="456828"/>
+		<member id="456873"/>
+		<member id="456931"/>
+		<member id="456914"/>
+		<member id="456960"/>
+		</committee>
+	<committee type="house" code="HSED" displayname="House Committee on Education and the Workforce">
+		<member id="400643" role="Chair"/>
+		<member id="400364" role="Ranking Member"/>
+		<member id="400433"/>
+		<member id="400162"/>
+		<member id="412317"/>
+		<member id="412193"/>
+		<member id="412213"/>
+		<member id="412312"/>
+		<member id="412661"/>
+		<member id="412412"/>
+		<member id="412648"/>
+		<member id="412501"/>
+		<member id="412625"/>
+		<member id="412520"/>
+		<member id="412702"/>
+		<member id="412607"/>
+		<member id="412676"/>
+		<member id="412613"/>
+		<member id="412722"/>
+		<member id="412606"/>
+		<member id="456852"/>
+		<member id="412730"/>
+		<member id="456853"/>
+		<member id="412751"/>
+		<member id="456827"/>
+		<member id="412769"/>
+		<member id="456820"/>
+		<member id="412763"/>
+		<member id="456803"/>
+		<member id="412791"/>
+		<member id="412735"/>
+		<member id="412786"/>
+		<member id="456859"/>
+		<member id="456835"/>
+		<member id="456881"/>
+		<member id="456832"/>
+		<member id="456888"/>
+		<member id="456821"/>
+		<member id="456910"/>
+		<member id="456839"/>
+		<member id="456940"/>
+		<member id="456933"/>
+		<member id="456926"/>
+		<member id="456903"/>
+		<member id="456959"/>
+		<subcommittee code="14" displayname="Early Childhood, Elementary, and Secondary Education Subcommittee">
+			<member id="456888" role="Chair"/>
+			<member id="412501" role="Ranking Member"/>
+			<member id="412317"/>
+			<member id="400162"/>
+			<member id="456852"/>
+			<member id="412312"/>
+			<member id="456827"/>
+			<member id="412763"/>
+			<member id="456820"/>
+			<member id="456839"/>
+			<member id="456803"/>
+			<member id="412412"/>
+			<member id="456881"/>
+			<member id="412613"/>
+			<member id="456940"/>
+			<member id="412606"/>
+			<member id="456926"/>
+			<member id="456959"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Health, Employment, Labor, and Pensions Subcommittee">
+			<member id="456853" role="Chair"/>
+			<member id="412613" role="Ranking Member"/>
+			<member id="400433"/>
+			<member id="412193"/>
+			<member id="412213"/>
+			<member id="412606"/>
+			<member id="412625"/>
+			<member id="412751"/>
+			<member id="412702"/>
+			<member id="456821"/>
+			<member id="412676"/>
+			<member id="412730"/>
+			<member id="412722"/>
+			<member id="412769"/>
+			<member id="456803"/>
+			<member id="412763"/>
+			<member id="456888"/>
+			<member id="412791"/>
+			<member id="456910"/>
+			<member id="456832"/>
+			<member id="456933"/>
+			<member id="456903"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Higher Education and Workforce Development Subcommittee">
+			<member id="456852" role="Chair"/>
+			<member id="412412" role="Ranking Member"/>
+			<member id="412317"/>
+			<member id="412520"/>
+			<member id="412661"/>
+			<member id="412730"/>
+			<member id="412648"/>
+			<member id="456835"/>
+			<member id="412702"/>
+			<member id="456832"/>
+			<member id="412722"/>
+			<member id="412769"/>
+			<member id="456853"/>
+			<member id="400162"/>
+			<member id="456940"/>
+			<member id="412193"/>
+			<member id="456933"/>
+			<member id="412312"/>
+			<member id="456926"/>
+			<member id="412501"/>
+			<member id="456903"/>
+			<member id="412607"/>
+			<member id="456959"/>
+			<member id="400643"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="Workforce Protections Subcommittee">
+			<member id="456881" role="Chair"/>
+			<member id="412607" role="Ranking Member"/>
+			<member id="412661"/>
+			<member id="412791"/>
+			<member id="412648"/>
+			<member id="412786"/>
+			<member id="412676"/>
+			<member id="412520"/>
+			<member id="456820"/>
+			<member id="456910"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSFA" displayname="House Committee on Foreign Affairs">
+		<member id="400654" role="Chair"/>
+		<member id="400271" role="Ranking Member"/>
+		<member id="400380"/>
+		<member id="400371"/>
+		<member id="400433"/>
+		<member id="412272"/>
+		<member id="412569"/>
+		<member id="412435"/>
+		<member id="400196"/>
+		<member id="412512"/>
+		<member id="412548"/>
+		<member id="412576"/>
+		<member id="412698"/>
+		<member id="412318"/>
+		<member id="412817"/>
+		<member id="412616"/>
+		<member id="412819"/>
+		<member id="412751"/>
+		<member id="412541"/>
+		<member id="412790"/>
+		<member id="456847"/>
+		<member id="412828"/>
+		<member id="456802"/>
+		<member id="456804"/>
+		<member id="456810"/>
+		<member id="456832"/>
+		<member id="412437"/>
+		<member id="456865"/>
+		<member id="412664"/>
+		<member id="412753"/>
+		<member id="412609"/>
+		<member id="412809"/>
+		<member id="412675"/>
+		<member id="456893"/>
+		<member id="412777"/>
+		<member id="456899"/>
+		<member id="412764"/>
+		<member id="456884"/>
+		<member id="456917"/>
+		<member id="400618"/>
+		<member id="456924"/>
+		<member id="412762"/>
+		<member id="456889"/>
+		<member id="456955"/>
+		<member id="456894"/>
+		<member id="407672"/>
+		<member id="456940"/>
+		<member id="412534"/>
+		<member id="456907"/>
+		<member id="456941"/>
+		<member id="412640"/>
+		<member id="456896"/>
+		<subcommittee code="16" displayname="Africa Subcommittee">
+			<member id="456907" role="Chair"/>
+			<member id="456804" role="Ranking Member"/>
+			<member id="400380"/>
+			<member id="456865"/>
+			<member id="456802"/>
+			<member id="412828"/>
+			<member id="412777"/>
+			<member id="456899"/>
+			<member id="456917"/>
+			<member id="456889"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="Indo-Pacific Subcommittee">
+			<member id="456802" role="Chair"/>
+			<member id="412512" role="Ranking Member"/>
+			<member id="412548"/>
+			<member id="400371"/>
+			<member id="412819"/>
+			<member id="412272"/>
+			<member id="412541"/>
+			<member id="412435"/>
+			<member id="412664"/>
+			<member id="412576"/>
+			<member id="412675"/>
+			<member id="412764"/>
+			<member id="456896"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Europe Subcommittee">
+			<member id="456917" role="Chair"/>
+			<member id="412435" role="Ranking Member"/>
+			<member id="400433"/>
+			<member id="412318"/>
+			<member id="400196"/>
+			<member id="412809"/>
+			<member id="412548"/>
+			<member id="400618"/>
+			<member id="412437"/>
+			<member id="412751"/>
+			<member id="456924"/>
+			<member id="456955"/>
+			<member id="456940"/>
+			<member id="456941"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Middle East, North Africa, and Central Asia Subcommittee">
+			<member id="400433" role="Chair"/>
+			<member id="412790" role="Ranking Member"/>
+			<member id="412698"/>
+			<member id="400371"/>
+			<member id="412817"/>
+			<member id="412272"/>
+			<member id="456847"/>
+			<member id="456832"/>
+			<member id="412777"/>
+			<member id="456955"/>
+			<member id="456924"/>
+			<member id="407672"/>
+			<member id="456894"/>
+			<member id="412640"/>
+		</subcommittee>
+		<subcommittee code="07" displayname="Western Hemisphere Subcommittee">
+			<member id="456810" role="Chair"/>
+			<member id="412576" role="Ranking Member"/>
+			<member id="412819"/>
+			<member id="412753"/>
+			<member id="412437"/>
+			<member id="456893"/>
+			<member id="412675"/>
+			<member id="456884"/>
+			<member id="456941"/>
+			<member id="456907"/>
+		</subcommittee>
+		<subcommittee code="17" displayname="Oversight and Accountability Subcommittee">
+			<member id="412698" role="Chair"/>
+			<member id="412762" role="Ranking Member"/>
+			<member id="412569"/>
+			<member id="412318"/>
+			<member id="400196"/>
+			<member id="412828"/>
+			<member id="412817"/>
+			<member id="456865"/>
+			<member id="412609"/>
+			<member id="412809"/>
+			<member id="412764"/>
+			<member id="456889"/>
+			<member id="456940"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="Global Health, Global Human Rights, and International Organizations Subcommittee">
+			<member id="400380" role="Chair"/>
+			<member id="412751" role="Ranking Member"/>
+			<member id="456810"/>
+			<member id="412512"/>
+			<member id="412664"/>
+			<member id="456804"/>
+			<member id="412609"/>
+			<member id="456832"/>
+			<member id="456894"/>
+			<member id="456907"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSGO" displayname="House Committee on Oversight and Accountability">
+		<member id="412676" role="Chair"/>
+		<member id="412708" role="Ranking Member"/>
+		<member id="412226"/>
+		<member id="400295"/>
+		<member id="400411"/>
+		<member id="400249"/>
+		<member id="412397"/>
+		<member id="412272"/>
+		<member id="400643"/>
+		<member id="412701"/>
+		<member id="412661"/>
+		<member id="412684"/>
+		<member id="412746"/>
+		<member id="407672"/>
+		<member id="412608"/>
+		<member id="412804"/>
+		<member id="412705"/>
+		<member id="412758"/>
+		<member id="400367"/>
+		<member id="456829"/>
+		<member id="412683"/>
+		<member id="456863"/>
+		<member id="456843"/>
+		<member id="456861"/>
+		<member id="456824"/>
+		<member id="456885"/>
+		<member id="456845"/>
+		<member id="456890"/>
+		<member id="456808"/>
+		<member id="456935"/>
+		<member id="412569"/>
+		<member id="456945"/>
+		<member id="412815"/>
+		<member id="456944"/>
+		<member id="412817"/>
+		<member id="456923"/>
+		<member id="456814"/>
+		<member id="456893"/>
+		<member id="456827"/>
+		<member id="412787"/>
+		<member id="456805"/>
+		<member id="412782"/>
+		<member id="456938"/>
+		<member id="456891"/>
+		<member id="456927"/>
+		<member id="456910"/>
+		<member id="412764"/>
+		<subcommittee code="24" displayname="Government Operations and the Federal Workforce Subcommittee">
+			<member id="400367" role="Chairman"/>
+			<member id="407672" role="Ranking Member"/>
+			<member id="412608"/>
+			<member id="400295"/>
+			<member id="412705"/>
+			<member id="456890"/>
+			<member id="412683"/>
+			<member id="456945"/>
+			<member id="456808"/>
+			<member id="412272"/>
+			<member id="412815"/>
+			<member id="456861"/>
+			<member id="412817"/>
+			<member id="456885"/>
+			<member id="456814"/>
+			<member id="456935"/>
+			<member id="456805"/>
+			<member id="456944"/>
+			<member id="456938"/>
+			<member id="412787"/>
+			<member id="456910"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="National Security, the Border, and Foreign Affairs Subcommittee">
+			<member id="412661" role="Chairman"/>
+			<member id="456885" role="Ranking Member"/>
+			<member id="412397"/>
+			<member id="400249"/>
+			<member id="400643"/>
+			<member id="456923"/>
+			<member id="412705"/>
+			<member id="456893"/>
+			<member id="400367"/>
+			<member id="412758"/>
+			<member id="412683"/>
+			<member id="456829"/>
+			<member id="456843"/>
+			<member id="456890"/>
+			<member id="456824"/>
+			<member id="456845"/>
+			<member id="412569"/>
+		</subcommittee>
+		<subcommittee code="27" displayname="Health Care and Financial Services Subcommittee">
+			<member id="456827" role="Chairwoman"/>
+			<member id="412758" role="Ranking Member"/>
+			<member id="412397"/>
+			<member id="412804"/>
+			<member id="400643"/>
+			<member id="456945"/>
+			<member id="412661"/>
+			<member id="456935"/>
+			<member id="456938"/>
+			<member id="456944"/>
+			<member id="456891"/>
+			<member id="400295"/>
+			<member id="456927"/>
+			<member id="412782"/>
+			<member id="456910"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="Economic Growth, Energy Policy, and Regulatory Affairs Subcommittee">
+			<member id="456845" role="Chairman"/>
+			<member id="456829" role="Ranking Member"/>
+			<member id="456808"/>
+			<member id="456863"/>
+			<member id="412569"/>
+			<member id="456861"/>
+			<member id="456827"/>
+			<member id="400295"/>
+			<member id="456805"/>
+			<member id="412701"/>
+			<member id="456938"/>
+			<member id="412684"/>
+			<member id="456891"/>
+			<member id="456927"/>
+			<member id="412764"/>
+		</subcommittee>
+		<subcommittee code="12" displayname="Cybersecurity, Information Technology, and Government Innovation Subcommittee">
+			<member id="456843" role="Chairwoman"/>
+			<member id="412272" role="Ranking Member"/>
+			<member id="412815"/>
+			<member id="412684"/>
+			<member id="412817"/>
+			<member id="400249"/>
+			<member id="456814"/>
+			<member id="407672"/>
+			<member id="456891"/>
+			<member id="456893"/>
+			<member id="456927"/>
+			<member id="412782"/>
+			<member id="456910"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSHA" displayname="House Committee on House Administration">
+		<member id="412836" role="Chair"/>
+		<member id="412749" role="Ranking Member"/>
+		<member id="412624"/>
+		<member id="412396"/>
+		<member id="412485"/>
+		<member id="412583"/>
+		<member id="412845"/>
+		<member id="412617"/>
+		<member id="456841"/>
+		<member id="456864"/>
+		<member id="456892"/>
+		<member id="456922"/>
+		<subcommittee code="08" displayname="Elections Subcommittee">
+			<member id="456892" role="Chair"/>
+			<member id="412396" role="Ranking Member"/>
+			<member id="412624"/>
+			<member id="412617"/>
+			<member id="456841"/>
+			<member id="456922"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="Oversight Subcommittee">
+			<member id="412624" role="Chairman"/>
+			<member id="412617" role="Ranking Member"/>
+			<member id="412485"/>
+			<member id="412583"/>
+			<member id="412845"/>
+			<member id="456922"/>
+		</subcommittee>
+		<subcommittee code="27" displayname="Modernization Subcommittee">
+			<member id="456841" role="Chairwoman"/>
+			<member id="412583" role="Ranking Member"/>
+			<member id="456864"/>
+			<member id="412749"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSHM" displayname="House Committee on Homeland Security">
+		<member id="412819" role="Chair"/>
+		<member id="400402" role="Ranking Member"/>
+		<member id="400654"/>
+		<member id="412514"/>
+		<member id="412705"/>
+		<member id="412688"/>
+		<member id="412793"/>
+		<member id="456860"/>
+		<member id="412844"/>
+		<member id="456908"/>
+		<member id="456809"/>
+		<member id="456937"/>
+		<member id="456846"/>
+		<member id="456905"/>
+		<member id="456836"/>
+		<member id="456923"/>
+		<member id="456814"/>
+		<member id="456885"/>
+		<member id="456849"/>
+		<member id="456900"/>
+		<member id="456920"/>
+		<member id="456918"/>
+		<member id="456911"/>
+		<member id="412717"/>
+		<member id="456922"/>
+		<member id="456957"/>
+		<member id="456892"/>
+		<member id="456962"/>
+		<member id="456942"/>
+		<member id="412221"/>
+		<member id="456878"/>
+		<member id="456931"/>
+		<member id="456879"/>
+		<subcommittee code="11" displayname="Border Security and Enforcement Subcommittee">
+			<member id="412705" role="Chairman"/>
+			<member id="412688" role="Ranking Member"/>
+			<member id="412793"/>
+			<member id="456885"/>
+			<member id="456814"/>
+			<member id="456900"/>
+			<member id="456849"/>
+			<member id="412717"/>
+			<member id="456942"/>
+			<member id="456962"/>
+			<member id="456931"/>
+		</subcommittee>
+		<subcommittee code="12" displayname="Emergency Management and Technology Subcommittee">
+			<member id="456922" role="Chairman"/>
+			<member id="456860" role="Ranking Member"/>
+			<member id="456920"/>
+			<member id="456923"/>
+			<member id="456878"/>
+			<member id="456957"/>
+			<member id="456931"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Cybersecurity and Infrastructure Protection Subcommittee">
+			<member id="456836" role="Chairman"/>
+			<member id="412514" role="Ranking Member"/>
+			<member id="456809"/>
+			<member id="456860"/>
+			<member id="456911"/>
+			<member id="456918"/>
+			<member id="456892"/>
+			<member id="456962"/>
+			<member id="456942"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="Counterterrorism, Law Enforcement, and Intelligence Subcommittee">
+			<member id="456846" role="Chairman"/>
+			<member id="456937" role="Ranking Member"/>
+			<member id="412844"/>
+			<member id="412688"/>
+			<member id="456849"/>
+			<member id="456923"/>
+			<member id="456922"/>
+			<member id="412717"/>
+			<member id="456879"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Oversight, Investigations, and Accountability Subcommittee">
+			<member id="412844" role="Chairman"/>
+			<member id="456905" role="Ranking Member"/>
+			<member id="456814"/>
+			<member id="456908"/>
+			<member id="456911"/>
+			<member id="456900"/>
+			<member id="456878"/>
+			<member id="412221"/>
+			<member id="456879"/>
+		</subcommittee>
+		<subcommittee code="07" displayname="Transportation and Maritime Security Subcommittee">
+			<member id="456809" role="Chairman"/>
+			<member id="456908" role="Ranking Member"/>
+			<member id="412705"/>
+			<member id="456885"/>
+			<member id="456920"/>
+			<member id="456957"/>
+			<member id="456892"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSIF" displayname="House Committee on Energy and Commerce">
+		<member id="400659" role="Chair"/>
+		<member id="400308" role="Ranking Member"/>
+		<member id="400052"/>
+		<member id="400124"/>
+		<member id="412256"/>
+		<member id="400101"/>
+		<member id="412278"/>
+		<member id="400360"/>
+		<member id="412485"/>
+		<member id="400663"/>
+		<member id="412250"/>
+		<member id="412195"/>
+		<member id="412427"/>
+		<member id="412212"/>
+		<member id="412550"/>
+		<member id="412319"/>
+		<member id="412213"/>
+		<member id="412221"/>
+		<member id="412622"/>
+		<member id="412517"/>
+		<member id="412472"/>
+		<member id="412519"/>
+		<member id="412608"/>
+		<member id="412523"/>
+		<member id="412691"/>
+		<member id="412637"/>
+		<member id="412740"/>
+		<member id="412579"/>
+		<member id="412745"/>
+		<member id="412557"/>
+		<member id="412778"/>
+		<member id="412595"/>
+		<member id="412820"/>
+		<member id="412687"/>
+		<member id="412812"/>
+		<member id="412689"/>
+		<member id="412574"/>
+		<member id="412695"/>
+		<member id="412625"/>
+		<member id="412789"/>
+		<member id="412747"/>
+		<member id="412835"/>
+		<member id="412773"/>
+		<member id="412781"/>
+		<member id="456846"/>
+		<member id="412824"/>
+		<member id="456844"/>
+		<member id="456817"/>
+		<member id="456806"/>
+		<member id="456801"/>
+		<member id="456907"/>
+		<subcommittee code="17" displayname="Innovation, Data, and Commerce Subcommittee">
+			<member id="412250" role="Chairman"/>
+			<member id="400360" role="Ranking Member"/>
+			<member id="412427"/>
+			<member id="412195"/>
+			<member id="412213" role="Vice Chair"/>
+			<member id="412637"/>
+			<member id="412472"/>
+			<member id="412595"/>
+			<member id="412691"/>
+			<member id="412689"/>
+			<member id="412745"/>
+			<member id="412695"/>
+			<member id="412773"/>
+			<member id="412781"/>
+			<member id="456844"/>
+			<member id="412221"/>
+			<member id="456806"/>
+			<member id="456801"/>
+			<member id="456907"/>
+		</subcommittee>
+		<subcommittee code="16" displayname="Communications and Technology Subcommittee">
+			<member id="412256" role="Chairman"/>
+			<member id="400663" role="Ranking Member"/>
+			<member id="412250"/>
+			<member id="412221"/>
+			<member id="412213"/>
+			<member id="412579"/>
+			<member id="412622"/>
+			<member id="412695"/>
+			<member id="412691"/>
+			<member id="400124"/>
+			<member id="412740"/>
+			<member id="412517"/>
+			<member id="412812"/>
+			<member id="412789"/>
+			<member id="412574" role="Vice Chair"/>
+			<member id="412824"/>
+			<member id="412625"/>
+			<member id="412637"/>
+			<member id="412773"/>
+			<member id="412557"/>
+			<member id="456846"/>
+			<member id="412595"/>
+			<member id="456844"/>
+			<member id="456817"/>
+			<member id="456806"/>
+			<member id="456801"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Energy, Climate, and Grid Security Subcommittee">
+			<member id="412472" role="Chairman"/>
+			<member id="400101" role="Ranking Member"/>
+			<member id="400052"/>
+			<member id="412523"/>
+			<member id="412256"/>
+			<member id="412824"/>
+			<member id="412278"/>
+			<member id="400663"/>
+			<member id="412485"/>
+			<member id="412319"/>
+			<member id="412427"/>
+			<member id="412579"/>
+			<member id="412213"/>
+			<member id="412557"/>
+			<member id="412608"/>
+			<member id="412835"/>
+			<member id="412740" role="Vice Chair"/>
+			<member id="412195"/>
+			<member id="412745"/>
+			<member id="412212"/>
+			<member id="412778"/>
+			<member id="412517"/>
+			<member id="412574"/>
+			<member id="412689"/>
+			<member id="412625"/>
+			<member id="412747"/>
+			<member id="456846"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Health Subcommittee">
+			<member id="412278" role="Chairman"/>
+			<member id="400124" role="Ranking Member"/>
+			<member id="400052"/>
+			<member id="412212"/>
+			<member id="412256"/>
+			<member id="412517"/>
+			<member id="412485"/>
+			<member id="412519"/>
+			<member id="412250"/>
+			<member id="412637"/>
+			<member id="412427" role="Vice Chair"/>
+			<member id="412557"/>
+			<member id="412550"/>
+			<member id="412595"/>
+			<member id="412622"/>
+			<member id="412687"/>
+			<member id="412691"/>
+			<member id="412689"/>
+			<member id="412778"/>
+			<member id="412789"/>
+			<member id="412820"/>
+			<member id="412835"/>
+			<member id="412812"/>
+			<member id="412781"/>
+			<member id="412747"/>
+			<member id="456844"/>
+			<member id="456817"/>
+			<member id="456801"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Oversight and Investigations Subcommittee">
+			<member id="412485" role="Chairman"/>
+			<member id="412195" role="Ranking Member"/>
+			<member id="400052"/>
+			<member id="400101"/>
+			<member id="412278"/>
+			<member id="400360"/>
+			<member id="412472"/>
+			<member id="412319"/>
+			<member id="412608"/>
+			<member id="412519"/>
+			<member id="412745" role="Vice Chair"/>
+			<member id="412523"/>
+			<member id="412820"/>
+			<member id="456806"/>
+		</subcommittee>
+		<subcommittee code="18" displayname="Environment, Manufacturing, and Critical Materials Subcommittee">
+			<member id="412622" role="Chairman"/>
+			<member id="412319" role="Ranking Member"/>
+			<member id="412608"/>
+			<member id="400101"/>
+			<member id="412778"/>
+			<member id="400360"/>
+			<member id="412820"/>
+			<member id="412212"/>
+			<member id="412812" role="Vice Chair"/>
+			<member id="412221"/>
+			<member id="412574"/>
+			<member id="412519"/>
+			<member id="412625"/>
+			<member id="412523"/>
+			<member id="412747"/>
+			<member id="412687"/>
+			<member id="412773"/>
+			<member id="456846"/>
+			<member id="456817"/>
+			<member id="456907"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSII" displayname="House Committee on Natural Resources">
+		<member id="412610" role="Chair"/>
+		<member id="400162" role="Ranking Member"/>
+		<member id="412191"/>
+		<member id="400290"/>
+		<member id="412255"/>
+		<member id="412312"/>
+		<member id="412295"/>
+		<member id="412511"/>
+		<member id="412397"/>
+		<member id="412612"/>
+		<member id="412631"/>
+		<member id="412761"/>
+		<member id="412664"/>
+		<member id="412760"/>
+		<member id="412510"/>
+		<member id="412758"/>
+		<member id="412410"/>
+		<member id="456835"/>
+		<member id="412723"/>
+		<member id="456861"/>
+		<member id="412773"/>
+		<member id="456870"/>
+		<member id="412792"/>
+		<member id="412804"/>
+		<member id="412740"/>
+		<member id="456883"/>
+		<member id="456791"/>
+		<member id="456932"/>
+		<member id="456799"/>
+		<member id="456884"/>
+		<member id="456830"/>
+		<member id="456937"/>
+		<member id="456805"/>
+		<member id="400416"/>
+		<member id="456842"/>
+		<member id="400069"/>
+		<member id="456947"/>
+		<member id="412637"/>
+		<member id="456896"/>
+		<member id="412802"/>
+		<member id="456946"/>
+		<member id="456895"/>
+		<member id="456891"/>
+		<member id="456882"/>
+		<member id="456951"/>
+		<subcommittee code="06" displayname="Energy and Mineral Resources Subcommittee">
+			<member id="412792" role="Chairman"/>
+			<member id="412804" role="Ranking Member"/>
+			<member id="412191"/>
+			<member id="412511"/>
+			<member id="412255"/>
+			<member id="456883"/>
+			<member id="412397"/>
+			<member id="456884"/>
+			<member id="412631"/>
+			<member id="456937"/>
+			<member id="412410"/>
+			<member id="400416"/>
+			<member id="412773"/>
+			<member id="412637"/>
+			<member id="412740"/>
+			<member id="400162"/>
+			<member id="456791"/>
+			<member id="400290"/>
+			<member id="456830"/>
+			<member id="412802"/>
+			<member id="456805"/>
+			<member id="456946" role="Vice Chair"/>
+			<member id="456895"/>
+			<member id="456882"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="Federal Lands Subcommittee">
+			<member id="456791" role="Chairman"/>
+			<member id="412761" role="Ranking Member"/>
+			<member id="412191"/>
+			<member id="412758"/>
+			<member id="412295"/>
+			<member id="456884"/>
+			<member id="412773"/>
+			<member id="412312"/>
+			<member id="412792"/>
+			<member id="412760"/>
+			<member id="412740" role="Vice Chair"/>
+			<member id="456835"/>
+			<member id="456842"/>
+			<member id="456870"/>
+			<member id="456947"/>
+			<member id="456896"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Water, Wildlife and Fisheries Subcommittee">
+			<member id="456842" role="Chairman"/>
+			<member id="412511" role="Ranking Member"/>
+			<member id="412255"/>
+			<member id="400290"/>
+			<member id="412295"/>
+			<member id="412760"/>
+			<member id="412631"/>
+			<member id="456870"/>
+			<member id="412664"/>
+			<member id="456883"/>
+			<member id="412510"/>
+			<member id="456932"/>
+			<member id="412410"/>
+			<member id="456937"/>
+			<member id="412723"/>
+			<member id="412637"/>
+			<member id="456799"/>
+			<member id="412612"/>
+			<member id="456805"/>
+			<member id="412761"/>
+			<member id="456947" role="Vice Chair"/>
+			<member id="412758"/>
+			<member id="456891"/>
+			<member id="400069"/>
+			<member id="456882"/>
+			<member id="456951"/>
+		</subcommittee>
+		<subcommittee code="24" displayname="Indian and Insular Affairs Subcommittee">
+			<member id="456951" role="Chair"/>
+			<member id="456835" role="Ranking Member"/>
+			<member id="412664"/>
+			<member id="412312"/>
+			<member id="412510"/>
+			<member id="412612"/>
+			<member id="412723" role="Vice Chair"/>
+			<member id="400416"/>
+			<member id="456799"/>
+			<member id="400069"/>
+			<member id="456896"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Oversight and Investigations Subcommittee">
+			<member id="412397" role="Chairman"/>
+			<member id="456861" role="Ranking Member"/>
+			<member id="456830"/>
+			<member id="400069"/>
+			<member id="456946"/>
+			<member id="412612"/>
+			<member id="456895" role="Vice Chair"/>
+			<member id="412802"/>
+			<member id="456891"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HLIG" displayname="House Permanent Select Committee on Intelligence">
+		<member id="400411" role="Chair"/>
+		<member id="412282" role="Ranking Member"/>
+		<member id="412564"/>
+		<member id="412258"/>
+		<member id="412400"/>
+		<member id="412576"/>
+		<member id="412648"/>
+		<member id="412701"/>
+		<member id="412673"/>
+		<member id="412762"/>
+		<member id="412674"/>
+		<member id="412512"/>
+		<member id="412721"/>
+		<member id="412659"/>
+		<member id="412417"/>
+		<member id="412714"/>
+		<member id="412609"/>
+		<member id="412739"/>
+		<member id="412820"/>
+		<member id="412810"/>
+		<member id="412764"/>
+		<member id="412833"/>
+		<member id="456792"/>
+		<member id="456847"/>
+		<member id="412569"/>
+		<subcommittee code="09" displayname="Oversight and Investigations Subcommittee">
+			<member id="412564" role="Chairman"/>
+			<member id="412739" role="Ranking Member"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Central Intelligence Agency Subcommittee">
+			<member id="412400" role="Chairman"/>
+			<member id="412258" role="Ranking Member"/>
+			<member id="412648"/>
+			<member id="412576"/>
+			<member id="412673"/>
+			<member id="412701"/>
+			<member id="412417"/>
+			<member id="412762"/>
+			<member id="412820"/>
+			<member id="412764"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="National Security Agency and Cyber Subcommittee">
+			<member id="412674" role="Chairman"/>
+			<member id="412714" role="Ranking Member"/>
+			<member id="412417"/>
+			<member id="412576"/>
+			<member id="412609"/>
+			<member id="412512"/>
+			<member id="412764"/>
+			<member id="412739"/>
+			<member id="456792"/>
+			<member id="456847"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Defense Intelligence and Overhead Architecture Subcommittee">
+			<member id="412673" role="Chairman"/>
+			<member id="412810" role="Ranking Member"/>
+			<member id="412564"/>
+			<member id="412762"/>
+			<member id="412400"/>
+			<member id="412659"/>
+			<member id="412721"/>
+			<member id="412833"/>
+			<member id="456792"/>
+			<member id="412569"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="National Intelligence Enterprise Subcommittee">
+			<member id="412721" role="Chairman"/>
+			<member id="412659" role="Ranking Member"/>
+			<member id="412674"/>
+			<member id="412512"/>
+			<member id="412609"/>
+			<member id="412714"/>
+			<member id="412820"/>
+			<member id="412833"/>
+			<member id="412569"/>
+			<member id="456847"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSJU" displayname="House Committee on the Judiciary">
+		<member id="412226" role="Chair"/>
+		<member id="400289" role="Ranking Member"/>
+		<member id="400196"/>
+		<member id="400245"/>
+		<member id="412683"/>
+		<member id="412236"/>
+		<member id="412295"/>
+		<member id="412199"/>
+		<member id="456791"/>
+		<member id="412514"/>
+		<member id="412503"/>
+		<member id="412616"/>
+		<member id="412826"/>
+		<member id="412730"/>
+		<member id="412844"/>
+		<member id="412688"/>
+		<member id="456822"/>
+		<member id="412750"/>
+		<member id="456855"/>
+		<member id="412761"/>
+		<member id="456842"/>
+		<member id="412769"/>
+		<member id="412832"/>
+		<member id="412809"/>
+		<member id="412822"/>
+		<member id="412825"/>
+		<member id="412796"/>
+		<member id="456831"/>
+		<member id="456848"/>
+		<member id="456829"/>
+		<member id="456800"/>
+		<member id="456905"/>
+		<member id="456881"/>
+		<member id="456948"/>
+		<member id="456951"/>
+		<member id="412774"/>
+		<member id="456940"/>
+		<member id="456964"/>
+		<member id="456892"/>
+		<member id="456946"/>
+		<member id="456938"/>
+		<member id="456959"/>
+		<subcommittee code="10" displayname="The Constitution and Limited Government Subcommittee">
+			<member id="412826" role="Chairman"/>
+			<member id="412750" role="Ranking Member"/>
+			<member id="412295"/>
+			<member id="412236"/>
+			<member id="412844"/>
+			<member id="412825"/>
+			<member id="456881"/>
+			<member id="456829"/>
+			<member id="456951"/>
+			<member id="456948"/>
+			<member id="456946"/>
+			<member id="456938"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Courts, Intellectual Property, and the Internet Subcommittee">
+			<member id="400196" role="Chairman"/>
+			<member id="412199" role="Ranking Member"/>
+			<member id="412503"/>
+			<member id="412616"/>
+			<member id="456855"/>
+			<member id="412761"/>
+			<member id="456842"/>
+			<member id="456831"/>
+			<member id="412832"/>
+			<member id="400245"/>
+			<member id="412822"/>
+			<member id="412809"/>
+			<member id="456881"/>
+			<member id="456905"/>
+			<member id="456940"/>
+			<member id="456892"/>
+			<member id="456938"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Crime and Federal Government Surveillance Subcommittee">
+			<member id="412683" role="Chairman"/>
+			<member id="412769" role="Ranking Member"/>
+			<member id="456791"/>
+			<member id="412809"/>
+			<member id="456848"/>
+			<member id="456829"/>
+			<member id="456800"/>
+			<member id="412236"/>
+			<member id="456881"/>
+			<member id="412199"/>
+			<member id="456892"/>
+			<member id="412774"/>
+			<member id="456938"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Immigration Integrity, Security, and Enforcement Subcommittee">
+			<member id="412295" role="Chairman"/>
+			<member id="412730" role="Ranking Member"/>
+			<member id="412683"/>
+			<member id="400245"/>
+			<member id="456791"/>
+			<member id="412688"/>
+			<member id="412826"/>
+			<member id="412825"/>
+			<member id="456822"/>
+			<member id="456831"/>
+			<member id="412796"/>
+			<member id="412514"/>
+			<member id="456848"/>
+			<member id="412774"/>
+			<member id="456800"/>
+			<member id="456946"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="The Administrative State, Regulatory Reform, and Antitrust Subcommittee">
+			<member id="412503" role="Chairman"/>
+			<member id="412688" role="Ranking Member"/>
+			<member id="400196"/>
+			<member id="412199"/>
+			<member id="412844"/>
+			<member id="412514"/>
+			<member id="456822"/>
+			<member id="412616"/>
+			<member id="456855"/>
+			<member id="412730"/>
+			<member id="456842"/>
+			<member id="412750"/>
+			<member id="412832"/>
+			<member id="412761"/>
+			<member id="412822"/>
+			<member id="412769"/>
+			<member id="412796"/>
+			<member id="400245"/>
+			<member id="456951"/>
+			<member id="412236"/>
+			<member id="456940"/>
+			<member id="456905"/>
+			<member id="456948"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Responsiveness and Accountability to Oversight Subcommittee">
+			<member id="412832" role="Chairman"/>
+			<member id="412514" role="Ranking Member"/>
+			<member id="412796"/>
+			<member id="456905"/>
+			<member id="456940"/>
+			<member id="456892"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSPW" displayname="House Committee on Transportation and Infrastructure">
+		<member id="400158" role="Chair"/>
+		<member id="400232" role="Ranking Member"/>
+		<member id="412400"/>
+		<member id="400295"/>
+		<member id="412410"/>
+		<member id="400290"/>
+		<member id="412503"/>
+		<member id="412236"/>
+		<member id="412569"/>
+		<member id="412382"/>
+		<member id="412655"/>
+		<member id="412199"/>
+		<member id="412631"/>
+		<member id="412258"/>
+		<member id="412641"/>
+		<member id="412318"/>
+		<member id="412629"/>
+		<member id="412511"/>
+		<member id="412510"/>
+		<member id="412516"/>
+		<member id="412610"/>
+		<member id="412412"/>
+		<member id="412698"/>
+		<member id="412613"/>
+		<member id="412723"/>
+		<member id="412686"/>
+		<member id="412792"/>
+		<member id="412753"/>
+		<member id="412817"/>
+		<member id="412828"/>
+		<member id="412816"/>
+		<member id="412780"/>
+		<member id="412796"/>
+		<member id="412774"/>
+		<member id="456848"/>
+		<member id="412795"/>
+		<member id="456823"/>
+		<member id="412632"/>
+		<member id="456852"/>
+		<member id="456825"/>
+		<member id="456873"/>
+		<member id="456854"/>
+		<member id="456933"/>
+		<member id="456860"/>
+		<member id="456917"/>
+		<member id="456871"/>
+		<member id="456922"/>
+		<member id="456870"/>
+		<member id="456910"/>
+		<member id="456918"/>
+		<member id="456950"/>
+		<member id="456932"/>
+		<member id="456926"/>
+		<member id="456930"/>
+		<member id="456925"/>
+		<member id="456906"/>
+		<member id="456895"/>
+		<member id="456913"/>
+		<member id="456911"/>
+		<member id="456936"/>
+		<member id="456882"/>
+		<member id="456888"/>
+		<member id="456956"/>
+		<member id="456881"/>
+		<member id="456958"/>
+		<subcommittee code="05" displayname="Aviation Subcommittee">
+			<member id="412631" role="Chairman"/>
+			<member id="412236" role="Ranking Member"/>
+			<member id="412400"/>
+			<member id="412199"/>
+			<member id="412503"/>
+			<member id="412258"/>
+			<member id="412569"/>
+			<member id="412516"/>
+			<member id="412610"/>
+			<member id="412613"/>
+			<member id="412698"/>
+			<member id="412753"/>
+			<member id="412792"/>
+			<member id="412828"/>
+			<member id="412817"/>
+			<member id="412780"/>
+			<member id="412816"/>
+			<member id="412774"/>
+			<member id="412796"/>
+			<member id="456825"/>
+			<member id="456823"/>
+			<member id="456870"/>
+			<member id="456852"/>
+			<member id="456906"/>
+			<member id="456873"/>
+			<member id="412318"/>
+			<member id="456933"/>
+			<member id="412686"/>
+			<member id="456917"/>
+			<member id="456918"/>
+			<member id="456922"/>
+			<member id="400295"/>
+			<member id="456925"/>
+			<member id="412412"/>
+			<member id="456895"/>
+			<member id="456936"/>
+			<member id="456888"/>
+			<member id="456881"/>
+			<member id="456958"/>
+		</subcommittee>
+		<subcommittee code="07" displayname="Coast Guard and Maritime Transportation Subcommittee">
+			<member id="412410" role="Chairman"/>
+			<member id="412686" role="Ranking Member"/>
+			<member id="412655"/>
+			<member id="412382"/>
+			<member id="412698"/>
+			<member id="412795"/>
+			<member id="412723"/>
+			<member id="456825"/>
+			<member id="412796"/>
+			<member id="456870"/>
+			<member id="456911"/>
+			<member id="456906"/>
+			<member id="456888"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Economic Development, Public Buildings, and Emergency Management Subcommittee">
+			<member id="412569" role="Chairman"/>
+			<member id="412318" role="Ranking Member"/>
+			<member id="412631"/>
+			<member id="400295"/>
+			<member id="412723"/>
+			<member id="412780"/>
+			<member id="456933"/>
+			<member id="456860"/>
+			<member id="456922"/>
+			<member id="400290"/>
+			<member id="456950"/>
+			<member id="412382"/>
+			<member id="456911"/>
+			<member id="412511"/>
+			<member id="456956"/>
+		</subcommittee>
+		<subcommittee code="12" displayname="Highways and Transit Subcommittee">
+			<member id="412400" role="Chairman"/>
+			<member id="400295" role="Ranking Member"/>
+			<member id="412410"/>
+			<member id="412511"/>
+			<member id="412503"/>
+			<member id="412795"/>
+			<member id="412629"/>
+			<member id="456854"/>
+			<member id="412510"/>
+			<member id="456871"/>
+			<member id="412792"/>
+			<member id="456918"/>
+			<member id="412817"/>
+			<member id="456932"/>
+			<member id="412816"/>
+			<member id="456913"/>
+			<member id="412796"/>
+			<member id="400290"/>
+			<member id="456848"/>
+			<member id="412236"/>
+			<member id="456823"/>
+			<member id="412199"/>
+			<member id="456852"/>
+			<member id="412516"/>
+			<member id="456873"/>
+			<member id="412753"/>
+			<member id="456933"/>
+			<member id="412828"/>
+			<member id="456917"/>
+			<member id="412774"/>
+			<member id="456922"/>
+			<member id="412632"/>
+			<member id="456910"/>
+			<member id="456930"/>
+			<member id="456950"/>
+			<member id="412382"/>
+			<member id="456926"/>
+			<member id="412318"/>
+			<member id="456925"/>
+			<member id="412686"/>
+			<member id="456895"/>
+			<member id="456825"/>
+			<member id="456882"/>
+			<member id="412613"/>
+			<member id="456888"/>
+			<member id="456956"/>
+			<member id="456881"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Railroads, Pipelines, and Hazardous Materials Subcommittee">
+			<member id="456848" role="Chairman"/>
+			<member id="412412" role="Ranking Member"/>
+			<member id="412655"/>
+			<member id="412632"/>
+			<member id="412641"/>
+			<member id="456860"/>
+			<member id="412629"/>
+			<member id="412258"/>
+			<member id="412510"/>
+			<member id="412613"/>
+			<member id="412610"/>
+			<member id="456854"/>
+			<member id="412792"/>
+			<member id="456913"/>
+			<member id="412817"/>
+			<member id="400290"/>
+			<member id="412816"/>
+			<member id="412236"/>
+			<member id="456823"/>
+			<member id="412199"/>
+			<member id="456873"/>
+			<member id="412511"/>
+			<member id="456917"/>
+			<member id="412774"/>
+			<member id="456910"/>
+			<member id="456918"/>
+			<member id="456926"/>
+			<member id="456936"/>
+			<member id="456925"/>
+			<member id="456882"/>
+			<member id="456958"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Water Resources and Environment Subcommittee">
+			<member id="412641" role="Chairman"/>
+			<member id="400290" role="Ranking Member"/>
+			<member id="412410"/>
+			<member id="412382"/>
+			<member id="412503"/>
+			<member id="456930"/>
+			<member id="412655"/>
+			<member id="412511"/>
+			<member id="412629"/>
+			<member id="412412"/>
+			<member id="412510"/>
+			<member id="456871"/>
+			<member id="412610"/>
+			<member id="456932"/>
+			<member id="412698"/>
+			<member id="456906"/>
+			<member id="412723"/>
+			<member id="412516"/>
+			<member id="456852"/>
+			<member id="412613"/>
+			<member id="456910"/>
+			<member id="412753"/>
+			<member id="456950"/>
+			<member id="412795"/>
+			<member id="456926"/>
+			<member id="412632"/>
+			<member id="456895"/>
+			<member id="456860"/>
+			<member id="456911"/>
+			<member id="400295"/>
+			<member id="456882"/>
+			<member id="456956"/>
+			<member id="456881"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSRU" displayname="House Committee on Rules">
+		<member id="400052" role="Chair"/>
+		<member id="400263" role="Ranking Member"/>
+		<member id="412813" role="Vice Chair"/>
+		<member id="412750"/>
+		<member id="456828"/>
+		<member id="412761"/>
+		<member id="412503"/>
+		<member id="456835"/>
+		<member id="412738"/>
+		<member id="412826"/>
+		<member id="456903"/>
+		<member id="456927"/>
+		<member id="412417"/>
+		<subcommittee code="02" displayname="Legislative and Budget Process Subcommittee">
+			<member id="456828" role="Chair"/>
+			<member id="456835" role="Ranking Member"/>
+			<member id="412738" role="Vice Chair"/>
+			<member id="412761"/>
+			<member id="400052"/>
+			<member id="412826"/>
+			<member id="456927"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Rules and Organization of the House Subcommittee">
+			<member id="412813" role="Chair"/>
+			<member id="412750" role="Ranking Member"/>
+			<member id="456903" role="Vice Chair"/>
+			<member id="400263"/>
+			<member id="400052"/>
+			<member id="412503"/>
+			<member id="412417"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSSM" displayname="House Committee on Small Business">
+		<member id="412578" role="Chair"/>
+		<member id="400416" role="Ranking Member"/>
+		<member id="412292"/>
+		<member id="412842"/>
+		<member id="412792"/>
+		<member id="412790"/>
+		<member id="412811"/>
+		<member id="456928"/>
+		<member id="456850"/>
+		<member id="456949"/>
+		<member id="456810"/>
+		<member id="456908"/>
+		<member id="456823"/>
+		<member id="456904"/>
+		<member id="456862"/>
+		<member id="456906"/>
+		<member id="456925"/>
+		<member id="412379"/>
+		<member id="456909"/>
+		<member id="412780"/>
+		<member id="456879"/>
+		<member id="412795"/>
+		<member id="456888"/>
+		<member id="456962"/>
+		<member id="456946"/>
+		<member id="456920"/>
+		<member id="456956"/>
+		<subcommittee code="23" displayname="Contracting and Infrastructure Subcommittee">
+			<member id="456920" role="Chairman"/>
+			<member id="456906" role="Ranking Member"/>
+			<member id="456810"/>
+			<member id="456904"/>
+			<member id="456862"/>
+			<member id="412379"/>
+			<member id="456925"/>
+			<member id="456908"/>
+			<member id="456888"/>
+			<member id="456962"/>
+			<member id="456956"/>
+		</subcommittee>
+		<subcommittee code="24" displayname="Oversight, Investigations, and Regulations Subcommittee">
+			<member id="456850" role="Chairman"/>
+			<member id="456908" role="Ranking Member"/>
+			<member id="456909"/>
+			<member id="456949"/>
+			<member id="456879"/>
+			<member id="412842"/>
+			<member id="456888"/>
+			<member id="456962"/>
+			<member id="456946"/>
+		</subcommittee>
+		<subcommittee code="27" displayname="Economic Growth, Tax, and Capital Access Subcommittee">
+			<member id="412811" role="Chairman"/>
+			<member id="456928" role="Ranking Member"/>
+			<member id="412292"/>
+			<member id="412790"/>
+			<member id="456850"/>
+			<member id="412379"/>
+			<member id="456909"/>
+			<member id="412780"/>
+			<member id="456920"/>
+			<member id="412842"/>
+		</subcommittee>
+		<subcommittee code="21" displayname="Rural Development, Energy, and Supply Chains Subcommittee">
+			<member id="456946" role="Chairman"/>
+			<member id="456949" role="Ranking Member"/>
+			<member id="412292"/>
+			<member id="412842"/>
+			<member id="412792"/>
+			<member id="456906"/>
+			<member id="412811"/>
+			<member id="456928"/>
+			<member id="456823"/>
+			<member id="456956"/>
+		</subcommittee>
+		<subcommittee code="22" displayname="Innovation, Entrepreneurship, and Workforce Development Subcommittee">
+			<member id="456925" role="Chairman"/>
+			<member id="456904" role="Ranking Member"/>
+			<member id="456823"/>
+			<member id="456908"/>
+			<member id="456810"/>
+			<member id="412795"/>
+			<member id="456862"/>
+			<member id="412790"/>
+			<member id="456879"/>
+			<member id="412379"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSSO" displayname="House Committee on Ethics"><member id="412793" role="Chair"/>
+		<member id="412751" role="Ranking Member"/>
+		<member id="412566"/>
+		<member id="412825"/>
+		<member id="412692"/>
+		<member id="412613"/>
+		<member id="456836"/>
+		<member id="456831"/>
+		<member id="456828"/>
+		<member id="456905"/>
+		</committee>
+	<committee type="house" code="HSSY" displayname="House Committee on Science, Space, and Technology">
+		<member id="400247" role="Chair"/>
+		<member id="400245" role="Ranking Member"/>
+		<member id="412309"/>
+		<member id="412501"/>
+		<member id="412574"/>
+		<member id="412786"/>
+		<member id="412655"/>
+		<member id="456839"/>
+		<member id="412777"/>
+		<member id="456831"/>
+		<member id="412410"/>
+		<member id="456902"/>
+		<member id="456792"/>
+		<member id="456934"/>
+		<member id="456841"/>
+		<member id="456913"/>
+		<member id="456801"/>
+		<member id="456883"/>
+		<member id="412476"/>
+		<member id="456916"/>
+		<member id="400196"/>
+		<member id="456930"/>
+		<member id="412400"/>
+		<member id="456890"/>
+		<member id="412720"/>
+		<member id="456887"/>
+		<member id="456807"/>
+		<member id="456935"/>
+		<member id="456878"/>
+		<member id="456953"/>
+		<member id="456929"/>
+		<member id="456955"/>
+		<member id="456894"/>
+		<member id="412775"/>
+		<member id="456895"/>
+		<member id="412319"/>
+		<member id="456926"/>
+		<member id="456917"/>
+		<member id="456958"/>
+		<member id="456960"/>
+		<subcommittee code="20" displayname="Energy Subcommittee">
+			<member id="456926" role="Chairman"/>
+			<member id="456839" role="Ranking Member"/>
+			<member id="412574"/>
+			<member id="456935"/>
+			<member id="412777"/>
+			<member id="456831"/>
+			<member id="456841"/>
+			<member id="456902"/>
+			<member id="412476"/>
+			<member id="456934"/>
+			<member id="412720"/>
+			<member id="456913"/>
+			<member id="456929"/>
+			<member id="456917"/>
+		</subcommittee>
+		<subcommittee code="21" displayname="Investigations and Oversight Subcommittee">
+			<member id="456801" role="Chairman"/>
+			<member id="456913" role="Ranking Member"/>
+			<member id="412655"/>
+			<member id="456883"/>
+			<member id="456929"/>
+			<member id="456916"/>
+			<member id="456894"/>
+			<member id="456958"/>
+		</subcommittee>
+		<subcommittee code="16" displayname="Space and Aeronautics Subcommittee">
+			<member id="412655" role="Chairman"/>
+			<member id="456902" role="Ranking Member"/>
+			<member id="412309"/>
+			<member id="456916"/>
+			<member id="412410"/>
+			<member id="456887"/>
+			<member id="456792"/>
+			<member id="456839"/>
+			<member id="400196"/>
+			<member id="456953"/>
+			<member id="456878"/>
+			<member id="456894"/>
+		</subcommittee>
+		<subcommittee code="18" displayname="Environment Subcommittee">
+			<member id="456929" role="Chairman"/>
+			<member id="456831" role="Ranking Member"/>
+			<member id="412309"/>
+			<member id="412501"/>
+			<member id="412400"/>
+			<member id="456890"/>
+			<member id="456895"/>
+			<member id="456958"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Research and Technology Subcommittee">
+			<member id="456895" role="Chairman"/>
+			<member id="412786" role="Ranking Member"/>
+			<member id="412777"/>
+			<member id="456934"/>
+			<member id="400196"/>
+			<member id="456883"/>
+			<member id="412400"/>
+			<member id="456930"/>
+			<member id="456807"/>
+			<member id="412501"/>
+			<member id="456926"/>
+			<member id="456917"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSVR" displayname="House Committee on Veterans' Affairs">
+		<member id="412629" role="Chair"/>
+		<member id="412520" role="Ranking Member"/>
+		<member id="412664" role="Vice Chair"/>
+		<member id="412516"/>
+		<member id="412709"/>
+		<member id="412760"/>
+		<member id="456843"/>
+		<member id="412795"/>
+		<member id="456830"/>
+		<member id="456821"/>
+		<member id="456817"/>
+		<member id="456865"/>
+		<member id="412845"/>
+		<member id="456904"/>
+		<member id="456807"/>
+		<member id="456900"/>
+		<member id="456950"/>
+		<member id="456928"/>
+		<member id="456942"/>
+		<member id="456901"/>
+		<member id="456880"/>
+		<member id="456957"/>
+		<member id="456879"/>
+		<member id="456941"/>
+		<member id="456947"/>
+		<subcommittee code="09" displayname="Disability Assistance and Memorial Affairs Subcommittee">
+			<member id="456942" role="Chairman"/>
+			<member id="412795" role="Ranking Member"/>
+			<member id="456807"/>
+			<member id="456904"/>
+			<member id="456880"/>
+			<member id="456900"/>
+			<member id="456879"/>
+			<member id="456928"/>
+			<member id="456941"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="Economic Opportunity Subcommittee">
+			<member id="456950" role="Chairman"/>
+			<member id="412760" role="Ranking Member"/>
+			<member id="456843"/>
+			<member id="456821"/>
+			<member id="456807"/>
+			<member id="456904"/>
+			<member id="456880"/>
+			<member id="456900"/>
+			<member id="456879"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Health Subcommittee">
+			<member id="456817" role="Chairwoman"/>
+			<member id="412516" role="Ranking Member"/>
+			<member id="412664"/>
+			<member id="412760"/>
+			<member id="412709"/>
+			<member id="456928"/>
+			<member id="412845"/>
+			<member id="456901"/>
+			<member id="456950"/>
+			<member id="456865"/>
+			<member id="456942"/>
+			<member id="456947"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Oversight and Investigations Subcommittee">
+			<member id="456947" role="Chairwoman"/>
+			<member id="456821" role="Ranking Member"/>
+			<member id="412664"/>
+			<member id="412795"/>
+			<member id="412709"/>
+			<member id="456957"/>
+			<member id="456830"/>
+		</subcommittee>
+		<subcommittee code="11" displayname="Technology Modernization Subcommittee">
+			<member id="456830" role="Chairman"/>
+			<member id="456865" role="Ranking Member"/>
+			<member id="456843"/>
+			<member id="456957"/>
+			<member id="456941"/>
+		</subcommittee>
+	</committee>
+	<committee type="house" code="HSWM" displayname="House Committee on Ways and Means">
+		<member id="412596" role="Chair"/>
+		<member id="400291" role="Ranking Member"/>
+		<member id="412196"/>
+		<member id="400111"/>
+		<member id="412217"/>
+		<member id="400403"/>
+		<member id="412465"/>
+		<member id="400233"/>
+		<member id="412399"/>
+		<member id="400033"/>
+		<member id="412674"/>
+		<member id="400093"/>
+		<member id="412564"/>
+		<member id="400355"/>
+		<member id="412726"/>
+		<member id="412396"/>
+		<member id="412700"/>
+		<member id="412505"/>
+		<member id="412735"/>
+		<member id="412379"/>
+		<member id="412722"/>
+		<member id="400661"/>
+		<member id="412748"/>
+		<member id="412546"/>
+		<member id="412837"/>
+		<member id="412657"/>
+		<member id="412845"/>
+		<member id="412677"/>
+		<member id="412724"/>
+		<member id="412534"/>
+		<member id="412721"/>
+		<member id="412685"/>
+		<member id="412766"/>
+		<member id="412739"/>
+		<member id="412720"/>
+		<member id="412559"/>
+		<member id="456828"/>
+		<member id="456851"/>
+		<member id="456803"/>
+		<member id="456850"/>
+		<member id="456818"/>
+		<member id="456837"/>
+		<member id="456864"/>
+		<subcommittee code="02" displayname="Health Subcommittee">
+			<member id="412196" role="Chairman"/>
+			<member id="400111" role="Ranking Member"/>
+			<member id="412217"/>
+			<member id="400403"/>
+			<member id="412465"/>
+			<member id="400033"/>
+			<member id="412564"/>
+			<member id="412396"/>
+			<member id="412845"/>
+			<member id="412379"/>
+			<member id="412748"/>
+			<member id="412677"/>
+			<member id="412837"/>
+			<member id="400093"/>
+			<member id="412721"/>
+			<member id="412559"/>
+			<member id="412720"/>
+			<member id="456851"/>
+			<member id="456803"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Work and Welfare Subcommittee">
+			<member id="412674" role="Chairman"/>
+			<member id="400093" role="Ranking Member"/>
+			<member id="412564"/>
+			<member id="412379"/>
+			<member id="456864"/>
+			<member id="400661"/>
+			<member id="456851"/>
+			<member id="412677"/>
+			<member id="456803"/>
+			<member id="412739"/>
+			<member id="412722"/>
+			<member id="412217"/>
+			<member id="412720"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="Oversight Subcommittee">
+			<member id="412399" role="Chairman"/>
+			<member id="400355" role="Ranking Member"/>
+			<member id="412721"/>
+			<member id="412379"/>
+			<member id="412766"/>
+			<member id="412505"/>
+			<member id="412720"/>
+			<member id="412396"/>
+			<member id="456828"/>
+			<member id="412677"/>
+			<member id="456850"/>
+			<member id="456818"/>
+			<member id="456837"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="Tax Subcommittee">
+			<member id="412465" role="Chairman"/>
+			<member id="400403" role="Ranking Member"/>
+			<member id="412399"/>
+			<member id="400111"/>
+			<member id="412726"/>
+			<member id="400233"/>
+			<member id="412700"/>
+			<member id="412505"/>
+			<member id="412748"/>
+			<member id="400661"/>
+			<member id="412735"/>
+			<member id="412534"/>
+			<member id="412722"/>
+			<member id="412739"/>
+			<member id="412724"/>
+			<member id="412657"/>
+			<member id="456850"/>
+			<member id="456818"/>
+			<member id="456837"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Social Security Subcommittee">
+			<member id="412700" role="Chairman"/>
+			<member id="400233" role="Ranking Member"/>
+			<member id="456864"/>
+			<member id="412546"/>
+			<member id="412399"/>
+			<member id="400661"/>
+			<member id="412735"/>
+			<member id="412657"/>
+			<member id="456851"/>
+			<member id="412559"/>
+			<member id="456818"/>
+			<member id="412766"/>
+			<member id="412724"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Trade Subcommittee">
+			<member id="412217" role="Chairman"/>
+			<member id="400033" role="Ranking Member"/>
+			<member id="412196"/>
+			<member id="412546"/>
+			<member id="412674"/>
+			<member id="412685"/>
+			<member id="412726"/>
+			<member id="412505"/>
+			<member id="412735"/>
+			<member id="412657"/>
+			<member id="412837"/>
+			<member id="400355"/>
+			<member id="412722"/>
+			<member id="412396"/>
+			<member id="412845"/>
+			<member id="412534"/>
+			<member id="412766"/>
+			<member id="456828"/>
+			<member id="412724"/>
+		</subcommittee>
+	</committee>
+	<committee type="joint" code="JCSE" displayname="Commission on Security and Cooperation in Europe"><member id="400064" role="Cochairman"/>
+		<member id="412247"/>
+		<member id="412323"/>
+		<member id="412490"/>
+		<member id="412742"/>
+		<member id="400432" role="Cochairman"/>
+		<member id="400040"/>
+		<member id="412668"/>
+		<member id="412471"/>
+		</committee>
+	<committee type="joint" code="JSEC" displayname="Joint Economic Committee"><member id="412281" role="Chairman"/>
+		<member id="412399" role="Vice Chair"/>
+		<member id="412242"/>
+		<member id="412726"/>
+		<member id="412680"/>
+		<member id="412735"/>
+		<member id="456794"/>
+		<member id="412700"/>
+		<member id="412239"/>
+		<member id="412722"/>
+		<member id="456877"/>
+		<member id="456837"/>
+		<member id="412495" role="Ranking Member"/>
+		<member id="412508"/>
+		<member id="456875"/>
+		<member id="456876"/>
+		<member id="412657"/>
+		<member id="412783"/>
+		<member id="400661"/>
+		<member id="412758"/>
+		</committee>
+	<committee type="joint" code="JSLC" displayname="Joint Committee on the Library"><member id="412242" role="Chairman"/>
+		<member id="412836" role="Vice Chair"/>
+		<member id="412321"/>
+		<member id="412515"/>
+		<member id="456857"/>
+		<member id="456864"/>
+		<member id="412556"/>
+		<member id="412743"/>
+		<member id="412749"/>
+		<member id="412396"/>
+		</committee>
+	<committee type="joint" code="JSPR" displayname="Joint Committee on Printing"><member id="412242" role="Vice Chairman"/>
+		<member id="412836" role="Chair"/>
+		<member id="412325"/>
+		<member id="412485"/>
+		<member id="456856"/>
+		<member id="412845"/>
+		<member id="412556"/>
+		<member id="456798"/>
+		<member id="412749"/>
+		<member id="412583"/>
+		</committee>
+	<committee type="joint" code="JSTX" displayname="Joint Committee on Taxation"><member id="300100" role="Chairman"/>
+		<member id="412596" role="Vice Chair"/>
+		<member id="300093"/>
+		<member id="412196"/>
+		<member id="300018"/>
+		<member id="412217"/>
+		<member id="300030"/>
+		<member id="300048"/>
+		<member id="400291"/>
+		<member id="400111"/>
+		</committee>
+	<committee type="senate" code="SCNC" displayname="United States Senate Caucus on International Narcotics Control"><member id="412247" role="Chairman"/>
+		<member id="412490"/>
+		<member id="412680"/>
+		<member id="412293"/>
+		<member id="300048" role="Vice Chairman"/>
+		<member id="300027"/>
+		<member id="412322"/>
+		</committee>
+	<committee type="senate" code="SLET" displayname="Senate Select Committee on Ethics"><member id="412390" role="Chairman"/>
+		<member id="412507"/>
+		<member id="412323"/>
+		<member id="412464" role="Vice Chairman"/>
+		<member id="412322"/>
+		<member id="412556"/>
+		</committee>
+	<committee type="senate" code="SLIA" displayname="Senate Committee on Indian Affairs"><member id="412507" role="Chairman"/>
+		<member id="300018"/>
+		<member id="412244"/>
+		<member id="412681"/>
+		<member id="412742"/>
+		<member id="412293"/>
+		<member id="300075" role="Vice Chairman"/>
+		<member id="412494"/>
+		<member id="412549"/>
+		<member id="412568"/>
+		<member id="412669"/>
+		</committee>
+	<committee type="senate" code="SLIN" displayname="Senate Select Committee on Intelligence"><member id="412321" role="Chairman"/>
+		<member id="300100"/>
+		<member id="412281"/>
+		<member id="412545"/>
+		<member id="412330"/>
+		<member id="412246"/>
+		<member id="412223"/>
+		<member id="456857"/>
+		<member id="300081" role="Ex Officio"/>
+		<member id="300087" role="Ex Officio"/>
+		<member id="456794"/>
+		<member id="412491" role="Vice Chairman"/>
+		<member id="412322"/>
+		<member id="300025"/>
+		<member id="412508"/>
+		<member id="300027"/>
+		<member id="400284"/>
+		<member id="412464"/>
+		<member id="412669"/>
+		<member id="300072" role="Ex Officio"/>
+		<member id="400432" role="Ex Officio"/>
+		</committee>
+	<committee type="senate" code="SPAG" displayname="Senate Special Committee on Aging"><member id="412246" role="Chairman"/>
+		<member id="412223"/>
+		<member id="412490"/>
+		<member id="412542"/>
+		<member id="456794"/>
+		<member id="456858"/>
+		<member id="456877"/>
+		<member id="412839" role="Ranking Member"/>
+		<member id="412471"/>
+		<member id="412491"/>
+		<member id="412838"/>
+		<member id="456876"/>
+		<member id="456952"/>
+		</committee>
+	<committee type="senate" code="SSAF" displayname="Senate Committee on Agriculture, Nutrition, and Forestry">
+		<member id="300093" role="Chairman"/>
+		<member id="400050"/>
+		<member id="412242"/>
+		<member id="412330"/>
+		<member id="412223"/>
+		<member id="412742"/>
+		<member id="300038"/>
+		<member id="412598"/>
+		<member id="412293"/>
+		<member id="456858"/>
+		<member id="412239"/>
+		<member id="456877"/>
+		<member id="400040" role="Ranking Member"/>
+		<member id="300072"/>
+		<member id="412494"/>
+		<member id="412667"/>
+		<member id="412743"/>
+		<member id="412704"/>
+		<member id="456796"/>
+		<member id="412839"/>
+		<member id="300048"/>
+		<member id="400546"/>
+		<member id="412556"/>
+		<subcommittee code="13" displayname="Commodities, Risk Management, and Trade Subcommittee">
+			<member id="412742" role="Chairman"/>
+			<member id="412223"/>
+			<member id="300038"/>
+			<member id="412598"/>
+			<member id="456858"/>
+			<member id="456877"/>
+			<member id="300093" role="Ex Officio"/>
+			<member id="412743" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="412667"/>
+			<member id="456796"/>
+			<member id="300048"/>
+			<member id="400040" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Conservation, Climate, Forestry, and Natural Resources Subcommittee">
+			<member id="412330" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412742"/>
+			<member id="412293"/>
+			<member id="456858"/>
+			<member id="412239"/>
+			<member id="300093" role="Ex Officio"/>
+			<member id="412704" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="412494"/>
+			<member id="412743"/>
+			<member id="400546"/>
+			<member id="400040" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Rural Development and Energy Subcommittee">
+			<member id="412239" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412330"/>
+			<member id="412742"/>
+			<member id="300038"/>
+			<member id="412293"/>
+			<member id="300093" role="Ex Officio"/>
+			<member id="456796" role="Ranking Member"/>
+			<member id="412667"/>
+			<member id="412839"/>
+			<member id="300048"/>
+			<member id="412556"/>
+			<member id="400040" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="16" displayname="Food and Nutrition, Specialty Crops, Organics, and Research Subcommittee">
+			<member id="456877" role="Chairman"/>
+			<member id="400050"/>
+			<member id="412242"/>
+			<member id="412223"/>
+			<member id="412598"/>
+			<member id="456858"/>
+			<member id="300093" role="Ex Officio"/>
+			<member id="412839" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="412667"/>
+			<member id="412704"/>
+			<member id="456796"/>
+			<member id="400040" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="17" displayname="Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security Subcommittee">
+			<member id="412223" role="Chairman"/>
+			<member id="400050"/>
+			<member id="300038"/>
+			<member id="412598"/>
+			<member id="412293"/>
+			<member id="412239"/>
+			<member id="300093" role="Ex Officio"/>
+			<member id="412494" role="Ranking Member"/>
+			<member id="412743"/>
+			<member id="412704"/>
+			<member id="400546"/>
+			<member id="412556"/>
+			<member id="400040" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSAP" displayname="Senate Committee on Appropriations">
+		<member id="300076" role="Chairman"/>
+		<member id="300038"/>
+		<member id="300081"/>
+		<member id="412244"/>
+		<member id="412323"/>
+		<member id="412325"/>
+		<member id="412390"/>
+		<member id="412507"/>
+		<member id="400013"/>
+		<member id="412194"/>
+		<member id="412391"/>
+		<member id="400415"/>
+		<member id="412281"/>
+		<member id="412305"/>
+		<member id="412509"/>
+		<member id="300025" role="Ranking Member"/>
+		<member id="300072"/>
+		<member id="300075"/>
+		<member id="300047"/>
+		<member id="400284"/>
+		<member id="412494"/>
+		<member id="400040"/>
+		<member id="400061"/>
+		<member id="412679"/>
+		<member id="412743"/>
+		<member id="456798"/>
+		<member id="456874"/>
+		<member id="412491"/>
+		<member id="412556"/>
+		<subcommittee code="16" displayname="Commerce, Justice, Science, and Related Agencies Subcommittee">
+			<member id="412323" role="Chairman"/>
+			<member id="300081"/>
+			<member id="412390"/>
+			<member id="412507"/>
+			<member id="412391"/>
+			<member id="400415"/>
+			<member id="412325"/>
+			<member id="412305"/>
+			<member id="412281"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="400284" role="Ranking Member"/>
+			<member id="300075"/>
+			<member id="300025"/>
+			<member id="400061"/>
+			<member id="412679"/>
+			<member id="456798"/>
+			<member id="456874"/>
+			<member id="412556"/>
+		</subcommittee>
+		<subcommittee code="22" displayname="Energy and Water Development Subcommittee">
+			<member id="300076" role="Chairman"/>
+			<member id="412244"/>
+			<member id="300038"/>
+			<member id="412323"/>
+			<member id="412325"/>
+			<member id="412390"/>
+			<member id="400013"/>
+			<member id="412281"/>
+			<member id="412509"/>
+			<member id="412679" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="300075"/>
+			<member id="300047"/>
+			<member id="412494"/>
+			<member id="412743"/>
+			<member id="456798"/>
+			<member id="456874"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="23" displayname="Financial Services and General Government Subcommittee">
+			<member id="400415" role="Chairman"/>
+			<member id="300038"/>
+			<member id="412390"/>
+			<member id="412391"/>
+			<member id="412281"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="456798" role="Ranking Member"/>
+			<member id="400040"/>
+			<member id="412679"/>
+			<member id="412491"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Homeland Security Subcommittee">
+			<member id="412194" role="Chairman"/>
+			<member id="300076"/>
+			<member id="412244"/>
+			<member id="412323"/>
+			<member id="400013"/>
+			<member id="412305"/>
+			<member id="456874" role="Ranking Member"/>
+			<member id="300075"/>
+			<member id="400061" role="Ranking Member"/>
+			<member id="412679"/>
+			<member id="412743"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="17" displayname="Interior, Environment, and Related Agencies Subcommittee">
+			<member id="412325" role="Chairman"/>
+			<member id="300081"/>
+			<member id="412244"/>
+			<member id="400415"/>
+			<member id="412281"/>
+			<member id="412305"/>
+			<member id="412509"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="300075" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="400061"/>
+			<member id="412494"/>
+			<member id="412556"/>
+			<member id="456874"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="18" displayname="Labor, Health and Human Services, and Education, and Related Agencies Subcommittee">
+			<member id="400013" role="Chairman"/>
+			<member id="300076"/>
+			<member id="300038"/>
+			<member id="300081"/>
+			<member id="412323"/>
+			<member id="412325"/>
+			<member id="412507"/>
+			<member id="412194"/>
+			<member id="412391"/>
+			<member id="400061" role="Ranking Member"/>
+			<member id="300047"/>
+			<member id="400284"/>
+			<member id="412679"/>
+			<member id="412743"/>
+			<member id="400040"/>
+			<member id="456874"/>
+			<member id="412491"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="19" displayname="Military Construction, Veterans Affairs, and Related Agencies Subcommittee">
+			<member id="412509" role="Chairman"/>
+			<member id="300076"/>
+			<member id="300081"/>
+			<member id="412244"/>
+			<member id="412507"/>
+			<member id="400013"/>
+			<member id="412281"/>
+			<member id="412391"/>
+			<member id="412305"/>
+			<member id="400040" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="300075"/>
+			<member id="412494"/>
+			<member id="300025"/>
+			<member id="412491"/>
+			<member id="456798"/>
+			<member id="412556"/>
+		</subcommittee>
+		<subcommittee code="20" displayname="State, Foreign Operations, and Related Programs Subcommittee">
+			<member id="412390" role="Chairman"/>
+			<member id="300038"/>
+			<member id="412323"/>
+			<member id="412325"/>
+			<member id="412194"/>
+			<member id="400415"/>
+			<member id="412507"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="300047" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="400040"/>
+			<member id="400284"/>
+			<member id="412491"/>
+			<member id="456798"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="24" displayname="Transportation, Housing and Urban Development, and Related Agencies Subcommittee">
+			<member id="412507" role="Chairman"/>
+			<member id="300076"/>
+			<member id="300038"/>
+			<member id="300081"/>
+			<member id="412390"/>
+			<member id="412194"/>
+			<member id="412391"/>
+			<member id="400415"/>
+			<member id="412509"/>
+			<member id="412743" role="Ranking Member"/>
+			<member id="300025"/>
+			<member id="400040"/>
+			<member id="400061"/>
+			<member id="300047"/>
+			<member id="412494"/>
+			<member id="412679"/>
+			<member id="400284"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Subcommittee">
+			<member id="412281" role="Chairman"/>
+			<member id="412244"/>
+			<member id="412325"/>
+			<member id="400013"/>
+			<member id="412391"/>
+			<member id="412305"/>
+			<member id="412509"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="412494" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="300025"/>
+			<member id="400284"/>
+			<member id="412743"/>
+			<member id="412556"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Defense Subcommittee">
+			<member id="412244" role="Chairman"/>
+			<member id="300038"/>
+			<member id="300076"/>
+			<member id="300081"/>
+			<member id="412507"/>
+			<member id="400013"/>
+			<member id="412323"/>
+			<member id="412194"/>
+			<member id="412390"/>
+			<member id="300025" role="Ranking Member"/>
+			<member id="300072"/>
+			<member id="300075"/>
+			<member id="300047"/>
+			<member id="400284"/>
+			<member id="412494"/>
+			<member id="400040"/>
+			<member id="400061"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Legislative Branch Subcommittee">
+			<member id="300081" role="Chairman"/>
+			<member id="412194"/>
+			<member id="400415"/>
+			<member id="300076" role="Ex Officio"/>
+			<member id="412556" role="Ranking Member"/>
+			<member id="412491"/>
+			<member id="300025" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSAS" displayname="Senate Committee on Armed Services">
+		<member id="300081" role="Chairman"/>
+		<member id="412323"/>
+		<member id="412223"/>
+		<member id="412490"/>
+		<member id="412200"/>
+		<member id="412582"/>
+		<member id="412545"/>
+		<member id="412542"/>
+		<member id="412305"/>
+		<member id="412391"/>
+		<member id="412533"/>
+		<member id="412715"/>
+		<member id="456794"/>
+		<member id="400432" role="Ranking Member"/>
+		<member id="412556"/>
+		<member id="412508"/>
+		<member id="412669"/>
+		<member id="412667"/>
+		<member id="412665"/>
+		<member id="412555"/>
+		<member id="412838"/>
+		<member id="456796"/>
+		<member id="412568"/>
+		<member id="412712"/>
+		<member id="456875"/>
+		<subcommittee code="14" displayname="Airland Subcommittee">
+			<member id="456794" role="Chairman"/>
+			<member id="412490"/>
+			<member id="412545"/>
+			<member id="412305"/>
+			<member id="412391"/>
+			<member id="412533"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412508" role="Ranking Member"/>
+			<member id="412556"/>
+			<member id="412667"/>
+			<member id="412838"/>
+			<member id="412568"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="20" displayname="Emerging Threats and Capabilities Subcommittee">
+			<member id="412223" role="Chairman"/>
+			<member id="412323"/>
+			<member id="412542"/>
+			<member id="412305"/>
+			<member id="412715"/>
+			<member id="456794"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412667" role="Ranking Member"/>
+			<member id="412508"/>
+			<member id="412568"/>
+			<member id="412712"/>
+			<member id="456875"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="17" displayname="Personnel Subcommittee">
+			<member id="412542" role="Chairman"/>
+			<member id="412490"/>
+			<member id="412200"/>
+			<member id="412582"/>
+			<member id="412533"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412838" role="Ranking Member"/>
+			<member id="412669"/>
+			<member id="412665"/>
+			<member id="412712"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Readiness and Management Support Subcommittee">
+			<member id="412200" role="Chairman"/>
+			<member id="412323"/>
+			<member id="412490"/>
+			<member id="412582"/>
+			<member id="412533"/>
+			<member id="456794"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412665" role="Ranking Member"/>
+			<member id="412556"/>
+			<member id="412555"/>
+			<member id="456796"/>
+			<member id="412568"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="Seapower Subcommittee">
+			<member id="412582" role="Chairman"/>
+			<member id="412323"/>
+			<member id="412490"/>
+			<member id="412200"/>
+			<member id="412545"/>
+			<member id="412305"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412555" role="Ranking Member"/>
+			<member id="412665"/>
+			<member id="412838"/>
+			<member id="456796"/>
+			<member id="456875"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="16" displayname="Strategic Forces Subcommittee">
+			<member id="412545" role="Chairman"/>
+			<member id="412223"/>
+			<member id="412542"/>
+			<member id="412391"/>
+			<member id="412715"/>
+			<member id="456794"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412556" role="Ranking Member"/>
+			<member id="412508"/>
+			<member id="412669"/>
+			<member id="412555"/>
+			<member id="456796"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="21" displayname="Cybersecurity Subcommittee">
+			<member id="412391" role="Chairman"/>
+			<member id="412223"/>
+			<member id="412305"/>
+			<member id="412533"/>
+			<member id="412715"/>
+			<member id="300081" role="Ex Officio"/>
+			<member id="412669" role="Ranking Member"/>
+			<member id="412667"/>
+			<member id="412712"/>
+			<member id="456875"/>
+			<member id="400432" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSBK" displayname="Senate Committee on Banking, Housing, and Urban Affairs">
+		<member id="400050" role="Chairman"/>
+		<member id="300081"/>
+		<member id="412244"/>
+		<member id="412321"/>
+		<member id="412542"/>
+		<member id="400415"/>
+		<member id="412681"/>
+		<member id="412742"/>
+		<member id="456858"/>
+		<member id="456877"/>
+		<member id="400361"/>
+		<member id="412797"/>
+		<member id="412471" role="Ranking Member"/>
+		<member id="300030"/>
+		<member id="412669"/>
+		<member id="412668"/>
+		<member id="412679"/>
+		<member id="456798"/>
+		<member id="412294"/>
+		<member id="456876"/>
+		<member id="456874"/>
+		<member id="412555"/>
+		<member id="412549"/>
+		<subcommittee code="12" displayname="Economic Policy Subcommittee">
+			<member id="412542" role="Chairman"/>
+			<member id="300081"/>
+			<member id="400415"/>
+			<member id="412742"/>
+			<member id="456877"/>
+			<member id="400050" role="Ex Officio"/>
+			<member id="412679" role="Ranking Member"/>
+			<member id="412669"/>
+			<member id="412668"/>
+			<member id="412294"/>
+			<member id="412549"/>
+			<member id="412471" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="05" displayname="National Security and International Trade and Finance Subcommittee">
+			<member id="412321" role="Chairman"/>
+			<member id="412244"/>
+			<member id="400415"/>
+			<member id="412681"/>
+			<member id="400050" role="Ex Officio"/>
+			<member id="456798" role="Ranking Member"/>
+			<member id="456874"/>
+			<member id="412555"/>
+			<member id="412549"/>
+			<member id="412471" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Securities, Insurance, and Investment Subcommittee">
+			<member id="300081"/>
+			<member id="412244"/>
+			<member id="412321" role="Ranking Member"/>
+			<member id="412542"/>
+			<member id="456858"/>
+			<member id="400050" role="Ex Officio"/>
+			<member id="412669" role="Ranking Member"/>
+			<member id="300030"/>
+			<member id="412668"/>
+			<member id="412679"/>
+			<member id="456798"/>
+			<member id="456876"/>
+			<member id="412471" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Housing, Transportation, and Community Development Subcommittee">
+			<member id="412742" role="Chairman"/>
+			<member id="300081"/>
+			<member id="412244"/>
+			<member id="412681"/>
+			<member id="456858"/>
+			<member id="456877"/>
+			<member id="400050" role="Ex Officio"/>
+			<member id="412294" role="Ranking Member"/>
+			<member id="300030"/>
+			<member id="412669"/>
+			<member id="412679"/>
+			<member id="456798"/>
+			<member id="456876"/>
+			<member id="456874"/>
+			<member id="412471" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Financial Institutions and Consumer Protection Subcommittee">
+			<member id="456858" role="Chairman"/>
+			<member id="412321"/>
+			<member id="412542"/>
+			<member id="400415"/>
+			<member id="412681"/>
+			<member id="412742"/>
+			<member id="456877"/>
+			<member id="400050" role="Ex Officio"/>
+			<member id="412668" role="Ranking Member"/>
+			<member id="300030"/>
+			<member id="412294"/>
+			<member id="456876"/>
+			<member id="456874"/>
+			<member id="412555"/>
+			<member id="412471" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSBU" displayname="Senate Committee on the Budget"><member id="412247" role="Chairman"/>
+		<member id="300076"/>
+		<member id="300100"/>
+		<member id="300093"/>
+		<member id="400357"/>
+		<member id="412321"/>
+		<member id="412325"/>
+		<member id="412582"/>
+		<member id="400415"/>
+		<member id="412293"/>
+		<member id="456856"/>
+		<member id="300048" role="Ranking Member"/>
+		<member id="300030"/>
+		<member id="300047"/>
+		<member id="412496"/>
+		<member id="412841"/>
+		<member id="412704"/>
+		<member id="412839"/>
+		<member id="412679"/>
+		<member id="412838"/>
+		<member id="412495"/>
+		</committee>
+	<committee type="senate" code="SSCM" displayname="Senate Committee on Commerce, Science, and Transportation">
+		<member id="300018" role="Chairman"/>
+		<member id="412242"/>
+		<member id="412507"/>
+		<member id="400253"/>
+		<member id="412305"/>
+		<member id="400013"/>
+		<member id="412533"/>
+		<member id="412244"/>
+		<member id="412509"/>
+		<member id="412715"/>
+		<member id="412293"/>
+		<member id="456797"/>
+		<member id="456858"/>
+		<member id="412239"/>
+		<member id="412573" role="Ranking Member"/>
+		<member id="400546"/>
+		<member id="400432"/>
+		<member id="412556"/>
+		<member id="400284"/>
+		<member id="412665"/>
+		<member id="400032"/>
+		<member id="412428"/>
+		<member id="412712"/>
+		<member id="456875"/>
+		<member id="456876"/>
+		<member id="400061"/>
+		<member id="412294"/>
+		<subcommittee code="33" displayname="Aviation Safety, Operations, and Innovation Subcommittee">
+			<member id="412533" role="Chairman"/>
+			<member id="412244"/>
+			<member id="412509"/>
+			<member id="412715"/>
+			<member id="456797"/>
+			<member id="456858"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="400284" role="Ranking Member"/>
+			<member id="400546"/>
+			<member id="400432"/>
+			<member id="412665"/>
+			<member id="412428"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="34" displayname="Communications, Media, and Broadband Subcommittee">
+			<member id="412293" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412507"/>
+			<member id="400253"/>
+			<member id="412305"/>
+			<member id="400013"/>
+			<member id="412533"/>
+			<member id="412244"/>
+			<member id="412509"/>
+			<member id="412715"/>
+			<member id="456797"/>
+			<member id="456858"/>
+			<member id="412239"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="400546" role="Ranking Member"/>
+			<member id="400432"/>
+			<member id="412556"/>
+			<member id="400284"/>
+			<member id="412665"/>
+			<member id="400032"/>
+			<member id="412428"/>
+			<member id="412712"/>
+			<member id="456875"/>
+			<member id="456876"/>
+			<member id="400061"/>
+			<member id="412294"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="35" displayname="Consumer Protection, Product Safety, and Data Security Subcommittee">
+			<member id="456797" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412507"/>
+			<member id="400253"/>
+			<member id="400013"/>
+			<member id="412533"/>
+			<member id="412293"/>
+			<member id="412239"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="400032" role="Ranking Member"/>
+			<member id="412556"/>
+			<member id="400284"/>
+			<member id="412665"/>
+			<member id="412428"/>
+			<member id="412712"/>
+			<member id="412294"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="36" displayname="Oceans, Fisheries, Climate Change, and Manufacturing Subcommittee">
+			<member id="400013" role="Chairman"/>
+			<member id="412507"/>
+			<member id="400253"/>
+			<member id="412293"/>
+			<member id="456858"/>
+			<member id="412239"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="412665" role="Ranking Member"/>
+			<member id="400432"/>
+			<member id="400284"/>
+			<member id="400032"/>
+			<member id="456876"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="37" displayname="Space and Science Subcommittee">
+			<member id="412509" role="Chairman"/>
+			<member id="400253"/>
+			<member id="412305"/>
+			<member id="412293"/>
+			<member id="456797"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="456875" role="Ranking Member"/>
+			<member id="412556"/>
+			<member id="456876"/>
+			<member id="412294"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="38" displayname="Surface Transportation, Maritime, Freight, and Ports Subcommittee">
+			<member id="412305" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412507"/>
+			<member id="400253"/>
+			<member id="400013"/>
+			<member id="412533"/>
+			<member id="456858"/>
+			<member id="412239"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="412428" role="Ranking Member"/>
+			<member id="400546"/>
+			<member id="400432"/>
+			<member id="412556"/>
+			<member id="456875"/>
+			<member id="400061"/>
+			<member id="412712"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="39" displayname="Tourism, Trade, and Export Promotion Subcommittee">
+			<member id="412715" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412533"/>
+			<member id="412509"/>
+			<member id="456797"/>
+			<member id="300018" role="Ex Officio"/>
+			<member id="412712" role="Ranking Member"/>
+			<member id="400546"/>
+			<member id="400032"/>
+			<member id="400061"/>
+			<member id="412573" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSEG" displayname="Senate Committee on Energy and Natural Resources">
+		<member id="412391" role="Chairman"/>
+		<member id="300100"/>
+		<member id="300018"/>
+		<member id="400357"/>
+		<member id="412281"/>
+		<member id="412200"/>
+		<member id="412545"/>
+		<member id="412681"/>
+		<member id="456797"/>
+		<member id="456856"/>
+		<member id="412251" role="Ranking Member"/>
+		<member id="412322"/>
+		<member id="412495"/>
+		<member id="412549"/>
+		<member id="300075"/>
+		<member id="412494"/>
+		<member id="412269"/>
+		<member id="412743"/>
+		<member id="412840"/>
+		<subcommittee code="07" displayname="Water and Power Subcommittee">
+			<member id="300100" role="Chairman"/>
+			<member id="400357"/>
+			<member id="412681"/>
+			<member id="456797"/>
+			<member id="456856"/>
+			<member id="412391" role="Ex Officio"/>
+			<member id="412322" role="Ranking Member"/>
+			<member id="412495"/>
+			<member id="412494"/>
+			<member id="412269"/>
+			<member id="412251" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="National Parks Subcommittee">
+			<member id="412545" role="Chairman"/>
+			<member id="400357"/>
+			<member id="412281"/>
+			<member id="412200"/>
+			<member id="456856"/>
+			<member id="412391" role="Ex Officio"/>
+			<member id="412549" role="Ranking Member"/>
+			<member id="412495"/>
+			<member id="300075"/>
+			<member id="412743"/>
+			<member id="412251" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Energy Subcommittee">
+			<member id="400357" role="Chairman"/>
+			<member id="300100"/>
+			<member id="412281"/>
+			<member id="412200"/>
+			<member id="412545"/>
+			<member id="412681"/>
+			<member id="456797"/>
+			<member id="412391" role="Ex Officio"/>
+			<member id="412840" role="Ranking Member"/>
+			<member id="412322"/>
+			<member id="300075"/>
+			<member id="412494"/>
+			<member id="412269"/>
+			<member id="412743"/>
+			<member id="412251" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="03" displayname="Public Lands, Forests, and Mining Subcommittee">
+			<member id="412681" role="Chairman"/>
+			<member id="300100"/>
+			<member id="412281"/>
+			<member id="412200"/>
+			<member id="412545"/>
+			<member id="456797"/>
+			<member id="456856"/>
+			<member id="412391" role="Ex Officio"/>
+			<member id="412495" role="Ranking Member"/>
+			<member id="412322"/>
+			<member id="412549"/>
+			<member id="300075"/>
+			<member id="412269"/>
+			<member id="412840"/>
+			<member id="412251" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSEV" displayname="Senate Committee on Environment and Public Works">
+		<member id="300019" role="Chairman"/>
+		<member id="400064"/>
+		<member id="400357"/>
+		<member id="412247"/>
+		<member id="412325"/>
+		<member id="400253"/>
+		<member id="300093"/>
+		<member id="456794"/>
+		<member id="456856"/>
+		<member id="456877"/>
+		<member id="400061" role="Ranking Member"/>
+		<member id="412555"/>
+		<member id="412294"/>
+		<member id="412568"/>
+		<member id="456952"/>
+		<member id="400040"/>
+		<member id="400432"/>
+		<member id="412665"/>
+		<member id="300047"/>
+		<subcommittee code="10" displayname="Clean Air, Climate, and Nuclear Safety Subcommittee">
+			<member id="400253" role="Chairman"/>
+			<member id="400064"/>
+			<member id="400357"/>
+			<member id="412247"/>
+			<member id="412325"/>
+			<member id="300093"/>
+			<member id="456794"/>
+			<member id="456856"/>
+			<member id="300019" role="Ex Officio"/>
+			<member id="456952" role="Ranking Member"/>
+			<member id="412555"/>
+			<member id="412294"/>
+			<member id="412568"/>
+			<member id="400432"/>
+			<member id="412665"/>
+			<member id="300047"/>
+			<member id="400061" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight Subcommittee">
+			<member id="412325" role="Chairman"/>
+			<member id="400357"/>
+			<member id="412247"/>
+			<member id="400253"/>
+			<member id="456877"/>
+			<member id="300019" role="Ex Officio"/>
+			<member id="412568" role="Ranking Member"/>
+			<member id="400040"/>
+			<member id="400432"/>
+			<member id="412665"/>
+			<member id="400061" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="08" displayname="Transportation and Infrastructure Subcommittee">
+			<member id="456794" role="Chairman"/>
+			<member id="400064"/>
+			<member id="400357"/>
+			<member id="412325"/>
+			<member id="400253"/>
+			<member id="300093"/>
+			<member id="456856"/>
+			<member id="456877"/>
+			<member id="300019" role="Ex Officio"/>
+			<member id="412555" role="Ranking Member"/>
+			<member id="412294"/>
+			<member id="412568"/>
+			<member id="456952"/>
+			<member id="400040"/>
+			<member id="400432"/>
+			<member id="300047"/>
+			<member id="400061" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Fisheries, Water, and Wildlife Subcommittee">
+			<member id="456856" role="Chairman"/>
+			<member id="400064"/>
+			<member id="412247"/>
+			<member id="400253"/>
+			<member id="300093"/>
+			<member id="456794"/>
+			<member id="300019" role="Ex Officio"/>
+			<member id="412294" role="Ranking Member"/>
+			<member id="412555"/>
+			<member id="456952"/>
+			<member id="400040"/>
+			<member id="412665"/>
+			<member id="400061" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSFI" displayname="Senate Committee on Finance">
+		<member id="300100" role="Chairman"/>
+		<member id="300093"/>
+		<member id="300018"/>
+		<member id="300019"/>
+		<member id="400064"/>
+		<member id="400050"/>
+		<member id="412330"/>
+		<member id="412246"/>
+		<member id="412321"/>
+		<member id="412247"/>
+		<member id="412680"/>
+		<member id="412681"/>
+		<member id="412542"/>
+		<member id="412797"/>
+		<member id="300030" role="Ranking Member"/>
+		<member id="300048"/>
+		<member id="300027"/>
+		<member id="400546"/>
+		<member id="412471"/>
+		<member id="412269"/>
+		<member id="412464"/>
+		<member id="412549"/>
+		<member id="412428"/>
+		<member id="412251"/>
+		<member id="412496"/>
+		<member id="412668"/>
+		<member id="400032"/>
+		<subcommittee code="12" displayname="Energy, Natural Resources, and Infrastructure Subcommittee">
+			<member id="300093" role="Chairman"/>
+			<member id="300100"/>
+			<member id="300019"/>
+			<member id="412330"/>
+			<member id="412247"/>
+			<member id="412681"/>
+			<member id="412464" role="Ranking Member"/>
+			<member id="300027"/>
+			<member id="412471"/>
+			<member id="412549"/>
+			<member id="412251"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="10" displayname="Health Care Subcommittee">
+			<member id="400064" role="Chairman"/>
+			<member id="300100"/>
+			<member id="300093"/>
+			<member id="300019"/>
+			<member id="412246"/>
+			<member id="412321"/>
+			<member id="412247"/>
+			<member id="412680"/>
+			<member id="412681"/>
+			<member id="412542"/>
+			<member id="412549" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="400546"/>
+			<member id="412471"/>
+			<member id="412269"/>
+			<member id="412464"/>
+			<member id="412428"/>
+			<member id="412251"/>
+			<member id="412496"/>
+			<member id="400032"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="13" displayname="International Trade, Customs, and Global Competitiveness Subcommittee">
+			<member id="300019" role="Chairman"/>
+			<member id="300100"/>
+			<member id="300093"/>
+			<member id="400064"/>
+			<member id="400050"/>
+			<member id="412330"/>
+			<member id="412246"/>
+			<member id="412321"/>
+			<member id="412681"/>
+			<member id="300027" role="Ranking Member"/>
+			<member id="400546"/>
+			<member id="412471"/>
+			<member id="412269"/>
+			<member id="412549"/>
+			<member id="412428"/>
+			<member id="412251"/>
+			<member id="412496"/>
+			<member id="412668"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="Fiscal Responsibility and Economic Growth Subcommittee">
+			<member id="412680" role="Chairman"/>
+			<member id="300100"/>
+			<member id="300048" role="Ranking Member"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="11" displayname="Taxation and IRS Oversight Subcommittee">
+			<member id="412330" role="Chairman"/>
+			<member id="300100"/>
+			<member id="400064"/>
+			<member id="412321"/>
+			<member id="412247"/>
+			<member id="412542"/>
+			<member id="400546" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="300027"/>
+			<member id="412464"/>
+			<member id="412496"/>
+			<member id="400032"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="Social Security, Pensions, and Family Policy Subcommittee">
+			<member id="400050" role="Chairman"/>
+			<member id="300100"/>
+			<member id="412246"/>
+			<member id="412680"/>
+			<member id="412542"/>
+			<member id="412668" role="Ranking Member"/>
+			<member id="412269"/>
+			<member id="412428"/>
+			<member id="400032"/>
+			<member id="300030" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSFR" displayname="Senate Committee on Foreign Relations">
+		<member id="400064" role="Chairman"/>
+		<member id="412323"/>
+		<member id="412390"/>
+		<member id="412194"/>
+		<member id="412582"/>
+		<member id="412325"/>
+		<member id="412598"/>
+		<member id="412507"/>
+		<member id="400415"/>
+		<member id="412533"/>
+		<member id="412797"/>
+		<member id="412322" role="Ranking Member"/>
+		<member id="412491"/>
+		<member id="412841"/>
+		<member id="456952"/>
+		<member id="412492"/>
+		<member id="412428"/>
+		<member id="412251"/>
+		<member id="412573"/>
+		<member id="456798"/>
+		<member id="412471"/>
+		<subcommittee code="01" displayname="Europe and Regional Security Cooperation Subcommittee">
+			<member id="412323" role="Chairman"/>
+			<member id="412194"/>
+			<member id="400415"/>
+			<member id="412533"/>
+			<member id="400064"/>
+			<member id="456952" role="Ranking Member"/>
+			<member id="412492"/>
+			<member id="412251"/>
+			<member id="412491"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Africa and Global Health Policy Subcommittee">
+			<member id="412598" role="Chairman"/>
+			<member id="412390"/>
+			<member id="412325"/>
+			<member id="412507"/>
+			<member id="400415"/>
+			<member id="400064" role="Ex Officio"/>
+			<member id="412471" role="Ranking Member"/>
+			<member id="412428"/>
+			<member id="412492"/>
+			<member id="412251"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="02" displayname="East Asia, the Pacific, and International Cybersecurity Policy Subcommittee">
+			<member id="400415" role="Chairman"/>
+			<member id="412325"/>
+			<member id="412507"/>
+			<member id="412533"/>
+			<member id="412390"/>
+			<member id="400064" role="Ex Officio"/>
+			<member id="412841" role="Ranking Member"/>
+			<member id="412471"/>
+			<member id="456798"/>
+			<member id="456952"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="07" displayname="Near East, South Asia, Central Asia, and Counterterrorism Subcommittee">
+			<member id="412194" role="Chairman"/>
+			<member id="400064"/>
+			<member id="412323"/>
+			<member id="412582"/>
+			<member id="412598"/>
+			<member id="412428" role="Ranking Member"/>
+			<member id="412841"/>
+			<member id="412573"/>
+			<member id="412491"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="06" displayname="Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues Subcommittee">
+			<member id="412582" role="Chairman"/>
+			<member id="412325"/>
+			<member id="400064"/>
+			<member id="412323"/>
+			<member id="412194"/>
+			<member id="412491" role="Ranking Member"/>
+			<member id="412573"/>
+			<member id="412428"/>
+			<member id="412471"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="15" displayname="Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy Subcommittee">
+			<member id="412533" role="Chairman"/>
+			<member id="412390"/>
+			<member id="412507"/>
+			<member id="412323"/>
+			<member id="412582"/>
+			<member id="400064" role="Ex Officio"/>
+			<member id="412251" role="Ranking Member"/>
+			<member id="412841"/>
+			<member id="456798"/>
+			<member id="412492"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="14" displayname="State Department and USAID Management, International Operations, and Bilateral International Development Subcommittee">
+			<member id="400064" role="Chairman"/>
+			<member id="412582"/>
+			<member id="412598"/>
+			<member id="412390"/>
+			<member id="412194"/>
+			<member id="456798" role="Ranking Member"/>
+			<member id="456952"/>
+			<member id="412573"/>
+			<member id="412492"/>
+			<member id="412322" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSGA" displayname="Senate Committee on Homeland Security and Governmental Affairs">
+		<member id="412305" role="Chairman"/>
+		<member id="300019"/>
+		<member id="412680"/>
+		<member id="412509"/>
+		<member id="412715"/>
+		<member id="456857"/>
+		<member id="412490"/>
+		<member id="400361"/>
+		<member id="412492" role="Ranking Member"/>
+		<member id="412496"/>
+		<member id="412464"/>
+		<member id="412841"/>
+		<member id="412838"/>
+		<member id="412840"/>
+		<member id="412704"/>
+		<subcommittee code="01" displayname="Permanent Subcommittee on Investigations Subcommittee">
+			<member id="412490" role="Chairman"/>
+			<member id="300019"/>
+			<member id="412680"/>
+			<member id="456857"/>
+			<member id="412305" role="Ex Officio"/>
+			<member id="412496" role="Ranking Member"/>
+			<member id="412838"/>
+			<member id="412840"/>
+			<member id="412704"/>
+			<member id="412492" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="20" displayname="Emerging Threats and Spending Oversight Subcommittee">
+			<member id="412680" role="Chairman"/>
+			<member id="412509"/>
+			<member id="412715"/>
+			<member id="456857"/>
+			<member id="412305" role="Ex Officio"/>
+			<member id="412841" role="Ranking Member"/>
+			<member id="412464"/>
+			<member id="412838"/>
+			<member id="412492" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="22" displayname="Government Operations and Border Management Subcommittee">
+			<member id="412509" role="Chairman"/>
+			<member id="300019"/>
+			<member id="412490"/>
+			<member id="412305" role="Ex Officio"/>
+			<member id="412464" role="Ranking Member"/>
+			<member id="412496"/>
+			<member id="412841"/>
+			<member id="412492" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSHR" displayname="Senate Committee on Health, Education, Labor, and Pensions">
+		<member id="400357" role="Chairman"/>
+		<member id="300076"/>
+		<member id="412246"/>
+		<member id="400013"/>
+		<member id="412194"/>
+		<member id="412582"/>
+		<member id="412680"/>
+		<member id="412742"/>
+		<member id="412293"/>
+		<member id="456797"/>
+		<member id="400253"/>
+		<member id="412269" role="Ranking Member"/>
+		<member id="412492"/>
+		<member id="300025"/>
+		<member id="300075"/>
+		<member id="412839"/>
+		<member id="412704"/>
+		<member id="412841"/>
+		<member id="456796"/>
+		<member id="412568"/>
+		<member id="412712"/>
+		<subcommittee code="11" displayname="Employment and Workplace Safety Subcommittee">
+			<member id="456797" role="Chairman"/>
+			<member id="412246"/>
+			<member id="400013"/>
+			<member id="412582"/>
+			<member id="412293"/>
+			<member id="400253"/>
+			<member id="400357" role="Ex Officio"/>
+			<member id="412839" role="Ranking Member"/>
+			<member id="412704"/>
+			<member id="412841"/>
+			<member id="456796"/>
+			<member id="412712"/>
+			<member id="412269" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="12" displayname="Primary Health and Retirement Security Subcommittee">
+			<member id="400253" role="Chairman"/>
+			<member id="300076"/>
+			<member id="400013"/>
+			<member id="412194"/>
+			<member id="412680"/>
+			<member id="412742"/>
+			<member id="412293"/>
+			<member id="456797"/>
+			<member id="400357" role="Ex Officio"/>
+			<member id="412704" role="Ranking Member"/>
+			<member id="412492"/>
+			<member id="300025"/>
+			<member id="300075"/>
+			<member id="412839"/>
+			<member id="412568"/>
+			<member id="412712"/>
+			<member id="412269" role="Ex Officio"/>
+		</subcommittee>
+		<subcommittee code="09" displayname="Children and Families Subcommittee">
+			<member id="412246" role="Chairman"/>
+			<member id="300076"/>
+			<member id="412194"/>
+			<member id="412582"/>
+			<member id="412680"/>
+			<member id="412742"/>
+			<member id="400357" role="Ex Officio"/>
+			<member id="456796" role="Ranking Member"/>
+			<member id="412492"/>
+			<member id="300075"/>
+			<member id="412841"/>
+			<member id="412568"/>
+			<member id="412269" role="Ex Officio"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSJU" displayname="Senate Committee on the Judiciary">
+		<member id="300038" role="Chairman"/>
+		<member id="412247"/>
+		<member id="412242"/>
+		<member id="412390"/>
+		<member id="412490"/>
+		<member id="412200"/>
+		<member id="412598"/>
+		<member id="456856"/>
+		<member id="456857"/>
+		<member id="412239"/>
+		<member id="400361"/>
+		<member id="300047" role="Ranking Member"/>
+		<member id="300048"/>
+		<member id="300027"/>
+		<member id="412495"/>
+		<member id="412573"/>
+		<member id="412840"/>
+		<member id="412508"/>
+		<member id="412679"/>
+		<member id="412668"/>
+		<member id="400032"/>
+		<subcommittee code="21" displayname="the Constitution Subcommittee">
+			<member id="412490"/>
+			<member id="412598"/>
+			<member id="456857"/>
+			<member id="412573" role="Ranking Member"/>
+			<member id="300027"/>
+			<member id="412495"/>
+		</subcommittee>
+		<subcommittee code="22" displayname="Criminal Justice and Counterterrorism Subcommittee">
+			<member id="412598" role="Chairman"/>
+			<member id="412247"/>
+			<member id="412242"/>
+			<member id="412390"/>
+			<member id="456856"/>
+			<member id="456857"/>
+			<member id="412508" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="300027"/>
+			<member id="412495"/>
+			<member id="412573"/>
+			<member id="412679"/>
+		</subcommittee>
+		<subcommittee code="01" displayname="Competition Policy, Antitrust, and Consumer Rights Subcommittee">
+			<member id="412242" role="Chairman"/>
+			<member id="412247"/>
+			<member id="412390"/>
+			<member id="412490"/>
+			<member id="412200"/>
+			<member id="412598"/>
+			<member id="412239"/>
+			<member id="412495" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="412840"/>
+			<member id="412508"/>
+			<member id="412668"/>
+			<member id="400032"/>
+		</subcommittee>
+		<subcommittee code="04" displayname="Immigration, Citizenship, and Border Safety Subcommittee">
+			<member id="456856" role="Chairman"/>
+			<member id="412247"/>
+			<member id="412242"/>
+			<member id="412390"/>
+			<member id="412200"/>
+			<member id="412598"/>
+			<member id="412239"/>
+			<member id="300027" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="412573"/>
+			<member id="412508"/>
+			<member id="412668"/>
+			<member id="400032"/>
+		</subcommittee>
+		<subcommittee code="25" displayname="Federal Courts, Oversight, Agency Action, and Federal Rights Subcommittee">
+			<member id="412247" role="Chairman"/>
+			<member id="412490"/>
+			<member id="412200"/>
+			<member id="412598"/>
+			<member id="456856"/>
+			<member id="412239"/>
+			<member id="412679" role="Ranking Member"/>
+			<member id="300048"/>
+			<member id="412495"/>
+			<member id="412573"/>
+			<member id="412668"/>
+			<member id="412840"/>
+		</subcommittee>
+		<subcommittee code="26" displayname="Intellectual Property Subcommittee">
+			<member id="412390" role="Chairman"/>
+			<member id="412200"/>
+			<member id="456856"/>
+			<member id="456857"/>
+			<member id="412239"/>
+			<member id="412668" role="Ranking Member"/>
+			<member id="300027"/>
+			<member id="412508"/>
+			<member id="400032"/>
+		</subcommittee>
+		<subcommittee code="27" displayname="Human Rights and the Law Subcommittee">
+			<member id="456857" role="Chairman"/>
+			<member id="412490"/>
+			<member id="412239"/>
+			<member id="400032" role="Ranking Member"/>
+			<member id="412679"/>
+			<member id="412840"/>
+		</subcommittee>
+		<subcommittee code="28" displayname="Privacy, Technology, and the Law Subcommittee">
+			<member id="412490" role="Chairman"/>
+			<member id="412242"/>
+			<member id="412390"/>
+			<member id="412200"/>
+			<member id="456856"/>
+			<member id="456857"/>
+			<member id="412840" role="Ranking Member"/>
+			<member id="412679"/>
+			<member id="400032"/>
+			<member id="412495"/>
+			<member id="300027"/>
+		</subcommittee>
+	</committee>
+	<committee type="senate" code="SSRA" displayname="Senate Committee on Rules and Administration"><member id="412242" role="Chairman"/>
+		<member id="300087"/>
+		<member id="412321"/>
+		<member id="412325"/>
+		<member id="456856"/>
+		<member id="456857"/>
+		<member id="412330"/>
+		<member id="412239"/>
+		<member id="400361"/>
+		<member id="412556" role="Ranking Member"/>
+		<member id="300072"/>
+		<member id="412573"/>
+		<member id="400061"/>
+		<member id="400432"/>
+		<member id="412743"/>
+		<member id="456798"/>
+		<member id="456874"/>
+		</committee>
+	<committee type="senate" code="SSSB" displayname="Senate Committee on Small Business and Entrepreneurship"><member id="412323" role="Chairman"/>
+		<member id="300018"/>
+		<member id="400064"/>
+		<member id="400253"/>
+		<member id="412598"/>
+		<member id="412390"/>
+		<member id="412200"/>
+		<member id="412533"/>
+		<member id="412715"/>
+		<member id="456797"/>
+		<member id="412667" role="Ranking Member"/>
+		<member id="412491"/>
+		<member id="412322"/>
+		<member id="412492"/>
+		<member id="412471"/>
+		<member id="412428"/>
+		<member id="412679"/>
+		<member id="412840"/>
+		<member id="412712"/>
+		</committee>
+	<committee type="senate" code="SSVA" displayname="Senate Committee on Veterans' Affairs"><member id="412244" role="Chairman"/>
+		<member id="300076"/>
+		<member id="400357"/>
+		<member id="400050"/>
+		<member id="412490"/>
+		<member id="412200"/>
+		<member id="412391"/>
+		<member id="412509"/>
+		<member id="412680"/>
+		<member id="412545"/>
+		<member id="400284" role="Ranking Member"/>
+		<member id="400040"/>
+		<member id="412269"/>
+		<member id="412669"/>
+		<member id="412668"/>
+		<member id="412665"/>
+		<member id="400032"/>
+		<member id="412555"/>
+		<member id="456796"/>
+		</committee>
+	<committee type="house" code="HSVC" displayname="House Select Subcommittee on the Coronavirus Pandemic"><member id="412564" role="Chair"/>
+		<member id="412519" role="Ranking Member"/>
+		<member id="456837"/>
+		<member id="412637"/>
+		<member id="456817"/>
+		<member id="407672"/>
+		<member id="412745"/>
+		<member id="456831"/>
+		<member id="412746"/>
+		<member id="456885"/>
+		<member id="412812"/>
+		<member id="412512"/>
+		<member id="456814"/>
+		<member id="456897"/>
+		<member id="456847"/>
+		<member id="456894"/>
+		</committee>
+	<committee type="house" code="HSFD" displayname="House Select Subcommittee on the Weaponization of the Federal Government"><member id="412226" role="Chair"/>
+		<member id="412659" role="Ranking Member"/>
+		<member id="400196"/>
+		<member id="400249"/>
+		<member id="412503"/>
+		<member id="400355"/>
+		<member id="412648"/>
+		<member id="400623"/>
+		<member id="412766"/>
+		<member id="412272"/>
+		<member id="412844"/>
+		<member id="412382"/>
+		<member id="456806"/>
+		<member id="412827"/>
+		<member id="456951"/>
+		<member id="456923"/>
+		<member id="412675"/>
+		<member id="456944"/>
+		<member id="456938"/>
+		</committee>
+	<committee type="house" code="HSZS" displayname="House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"><member id="412634" role="Chair"/>
+		<member id="412701" role="Ranking Member"/>
+		<member id="412255"/>
+		<member id="412195"/>
+		<member id="412292"/>
+		<member id="412258"/>
+		<member id="412541"/>
+		<member id="412632"/>
+		<member id="412660"/>
+		<member id="412684"/>
+		<member id="412674"/>
+		<member id="412799"/>
+		<member id="412691"/>
+		<member id="412786"/>
+		<member id="412702"/>
+		<member id="456825"/>
+		<member id="412816"/>
+		<member id="456838"/>
+		<member id="456803"/>
+		<member id="456863"/>
+		<member id="456816"/>
+		<member id="456809"/>
+		<member id="412832"/>
+		</committee>
+	<committee type="house" code="HSZT" displayname="House Task Force on the Attempted Assassination of Donald J. Trump"><member id="412465" role="Chair"/>
+		<member id="412762" role="Ranking Member"/>
+		<member id="412566"/>
+		<member id="412688"/>
+		<member id="412705"/>
+		<member id="412809"/>
+		<member id="412819"/>
+		<member id="412810"/>
+		<member id="412764"/>
+		<member id="456905"/>
+		<member id="456845"/>
+		<member id="456893"/>
+		<member id="456892"/>
+		</committee>
+</committees>
